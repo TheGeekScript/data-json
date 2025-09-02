@@ -2,9 +2,10 @@
 
 A comprehensive JSON dataset containing hierarchical geographic data for countries, states/provinces, cities, and country phone codes. This dataset is designed for developers, researchers, and applications requiring structured location data with telecommunications information.
 
-![GitHub license](https://img.shields.io/github/license/thegeekscript/data-json)
+![GitHub license](https://img.shields.io/github/license/TheGeekScript/data-json)
 ![Dataset Size](https://img.shields.io/badge/dataset-JSON-blue)
 ![Last Updated](https://img.shields.io/badge/updated-2025-green)
+![Visitor Count](https://komarev.com/ghpvc/?username=TheGeekScript&repo=data-json)
 
 ## 📊 Dataset Overview
 
