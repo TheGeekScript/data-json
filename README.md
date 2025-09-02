@@ -138,21 +138,29 @@ git clone https://github.com/TheGeekScript/data-json.git
 # Or download specific file
 wget https://github.com/TheGeekScript/data-json/blob/main/countries.json
 wget https://github.com/TheGeekScript/data-json/blob/main/country-codes.json
+wget https://github.com/TheGeekScript/data-json/blob/main/countries_states_cities.json
 ```
 
 ### Package Managers
 ```bash
 # NPM (if published)
-npm install country-state-city-dataset
+npm install data-json
 
 # Bower
-bower install country-state-city-dataset
+bower install data-json
 ```
 
 ### CDN Usage
 ```html
-<!-- Direct link to raw file -->
-<script src="https://cdn.jsdelivr.net/gh/username/repo-name@main/countries-states-cities.json"></script>
+
+<!-- Direct link to raw file countries data -->
+<script src="https://cdn.jsdelivr.net/gh/TheGeekScript/data-json@main/countries.json"></script>
+
+<!-- Direct link to raw file country codes data -->
+<script src="https://cdn.jsdelivr.net/gh/TheGeekScript/data-json@main/country-codes.json"></script>
+
+<!-- Direct link to raw file country state city data -->
+<script src="https://cdn.jsdelivr.net/gh/TheGeekScript/data-json@main/countries_states_cities.json"></script>
 ```
 
 ## 🤝 Contributing
