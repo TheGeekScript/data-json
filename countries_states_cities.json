@@ -1,0 +1,6666 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US",
+      "states": [
+        {
+          "name": "Alabama",
+          "code": "AL",
+          "cities": [
+            "Birmingham",
+            "Montgomery",
+            "Mobile",
+            "Huntsville",
+            "Tuscaloosa",
+            "Hoover",
+            "Dothan",
+            "Auburn",
+            "Decatur",
+            "Madison"
+          ]
+        },
+        {
+          "name": "Alaska",
+          "code": "AK",
+          "cities": [
+            "Anchorage",
+            "Fairbanks",
+            "Juneau",
+            "Sitka",
+            "Ketchikan",
+            "Wasilla",
+            "Kenai",
+            "Kodiak",
+            "Bethel",
+            "Palmer"
+          ]
+        },
+        {
+          "name": "Arizona",
+          "code": "AZ",
+          "cities": [
+            "Phoenix",
+            "Tucson",
+            "Mesa",
+            "Chandler",
+            "Scottsdale",
+            "Glendale",
+            "Gilbert",
+            "Tempe",
+            "Peoria",
+            "Surprise"
+          ]
+        },
+        {
+          "name": "Arkansas",
+          "code": "AR",
+          "cities": [
+            "Little Rock",
+            "Fort Smith",
+            "Fayetteville",
+            "Springdale",
+            "Jonesboro",
+            "North Little Rock",
+            "Conway",
+            "Rogers",
+            "Pine Bluff",
+            "Bentonville"
+          ]
+        },
+        {
+          "name": "California",
+          "code": "CA",
+          "cities": [
+            "Los Angeles",
+            "San Francisco",
+            "San Diego",
+            "San Jose",
+            "Fresno",
+            "Sacramento",
+            "Long Beach",
+            "Oakland",
+            "Bakersfield",
+            "Anaheim"
+          ]
+        },
+        {
+          "name": "Colorado",
+          "code": "CO",
+          "cities": [
+            "Denver",
+            "Colorado Springs",
+            "Aurora",
+            "Fort Collins",
+            "Lakewood",
+            "Thornton",
+            "Westminster",
+            "Pueblo",
+            "Arvada",
+            "Centennial"
+          ]
+        },
+        {
+          "name": "Connecticut",
+          "code": "CT",
+          "cities": [
+            "Bridgeport",
+            "New Haven",
+            "Hartford",
+            "Stamford",
+            "Waterbury",
+            "Norwalk",
+            "Danbury",
+            "New Britain",
+            "West Hartford",
+            "Greenwich"
+          ]
+        },
+        {
+          "name": "Delaware",
+          "code": "DE",
+          "cities": [
+            "Wilmington",
+            "Dover",
+            "Newark",
+            "Middletown",
+            "Smyrna",
+            "Milford",
+            "Seaford",
+            "Georgetown",
+            "Elsmere",
+            "New Castle"
+          ]
+        },
+        {
+          "name": "Florida",
+          "code": "FL",
+          "cities": [
+            "Jacksonville",
+            "Miami",
+            "Tampa",
+            "Orlando",
+            "St. Petersburg",
+            "Hialeah",
+            "Tallahassee",
+            "Fort Lauderdale",
+            "Port St. Lucie",
+            "Cape Coral"
+          ]
+        },
+        {
+          "name": "Georgia",
+          "code": "GA",
+          "cities": [
+            "Atlanta",
+            "Augusta",
+            "Columbus",
+            "Savannah",
+            "Athens",
+            "Sandy Springs",
+            "Roswell",
+            "Macon",
+            "Johns Creek",
+            "Albany"
+          ]
+        },
+        {
+          "name": "Hawaii",
+          "code": "HI",
+          "cities": [
+            "Honolulu",
+            "Pearl City",
+            "Hilo",
+            "Kailua",
+            "Kaneohe",
+            "Kahului",
+            "Kihei",
+            "Ewa Beach",
+            "Mililani",
+            "Waipahu"
+          ]
+        },
+        {
+          "name": "Idaho",
+          "code": "ID",
+          "cities": [
+            "Boise",
+            "Nampa",
+            "Meridian",
+            "Idaho Falls",
+            "Pocatello",
+            "Caldwell",
+            "Coeur d'Alene",
+            "Twin Falls",
+            "Lewiston",
+            "Post Falls"
+          ]
+        },
+        {
+          "name": "Illinois",
+          "code": "IL",
+          "cities": [
+            "Chicago",
+            "Aurora",
+            "Rockford",
+            "Joliet",
+            "Naperville",
+            "Springfield",
+            "Peoria",
+            "Elgin",
+            "Waukegan",
+            "Cicero"
+          ]
+        },
+        {
+          "name": "Indiana",
+          "code": "IN",
+          "cities": [
+            "Indianapolis",
+            "Fort Wayne",
+            "Evansville",
+            "South Bend",
+            "Carmel",
+            "Fishers",
+            "Bloomington",
+            "Hammond",
+            "Gary",
+            "Muncie"
+          ]
+        },
+        {
+          "name": "Iowa",
+          "code": "IA",
+          "cities": [
+            "Des Moines",
+            "Cedar Rapids",
+            "Davenport",
+            "Sioux City",
+            "Iowa City",
+            "Waterloo",
+            "Council Bluffs",
+            "Ames",
+            "West Des Moines",
+            "Dubuque"
+          ]
+        },
+        {
+          "name": "Kansas",
+          "code": "KS",
+          "cities": [
+            "Wichita",
+            "Overland Park",
+            "Kansas City",
+            "Olathe",
+            "Topeka",
+            "Lawrence",
+            "Shawnee",
+            "Manhattan",
+            "Lenexa",
+            "Salina"
+          ]
+        },
+        {
+          "name": "Kentucky",
+          "code": "KY",
+          "cities": [
+            "Louisville",
+            "Lexington",
+            "Bowling Green",
+            "Owensboro",
+            "Covington",
+            "Hopkinsville",
+            "Richmond",
+            "Florence",
+            "Georgetown",
+            "Henderson"
+          ]
+        },
+        {
+          "name": "Louisiana",
+          "code": "LA",
+          "cities": [
+            "New Orleans",
+            "Baton Rouge",
+            "Shreveport",
+            "Lafayette",
+            "Lake Charles",
+            "Kenner",
+            "Bossier City",
+            "Monroe",
+            "Alexandria",
+            "Houma"
+          ]
+        },
+        {
+          "name": "Maine",
+          "code": "ME",
+          "cities": [
+            "Portland",
+            "Lewiston",
+            "Bangor",
+            "South Portland",
+            "Auburn",
+            "Biddeford",
+            "Sanford",
+            "Saco",
+            "Augusta",
+            "Westbrook"
+          ]
+        },
+        {
+          "name": "Maryland",
+          "code": "MD",
+          "cities": [
+            "Baltimore",
+            "Frederick",
+            "Rockville",
+            "Gaithersburg",
+            "Bowie",
+            "Hagerstown",
+            "Annapolis",
+            "College Park",
+            "Salisbury",
+            "Laurel"
+          ]
+        },
+        {
+          "name": "Massachusetts",
+          "code": "MA",
+          "cities": [
+            "Boston",
+            "Worcester",
+            "Springfield",
+            "Cambridge",
+            "Lowell",
+            "Brockton",
+            "New Bedford",
+            "Quincy",
+            "Lynn",
+            "Newton"
+          ]
+        },
+        {
+          "name": "Michigan",
+          "code": "MI",
+          "cities": [
+            "Detroit",
+            "Grand Rapids",
+            "Warren",
+            "Sterling Heights",
+            "Lansing",
+            "Ann Arbor",
+            "Flint",
+            "Dearborn",
+            "Livonia",
+            "Westland"
+          ]
+        },
+        {
+          "name": "Minnesota",
+          "code": "MN",
+          "cities": [
+            "Minneapolis",
+            "Saint Paul",
+            "Rochester",
+            "Duluth",
+            "Bloomington",
+            "Brooklyn Park",
+            "Plymouth",
+            "Saint Cloud",
+            "Eagan",
+            "Woodbury"
+          ]
+        },
+        {
+          "name": "Mississippi",
+          "code": "MS",
+          "cities": [
+            "Jackson",
+            "Gulfport",
+            "Southaven",
+            "Hattiesburg",
+            "Biloxi",
+            "Meridian",
+            "Tupelo",
+            "Greenville",
+            "Olive Branch",
+            "Horn Lake"
+          ]
+        },
+        {
+          "name": "Missouri",
+          "code": "MO",
+          "cities": [
+            "Kansas City",
+            "Saint Louis",
+            "Springfield",
+            "Independence",
+            "Columbia",
+            "Lee's Summit",
+            "O'Fallon",
+            "Saint Joseph",
+            "Saint Charles",
+            "Saint Peters"
+          ]
+        },
+        {
+          "name": "Montana",
+          "code": "MT",
+          "cities": [
+            "Billings",
+            "Missoula",
+            "Great Falls",
+            "Bozeman",
+            "Butte",
+            "Helena",
+            "Kalispell",
+            "Havre",
+            "Anaconda",
+            "Miles City"
+          ]
+        },
+        {
+          "name": "Nebraska",
+          "code": "NE",
+          "cities": [
+            "Omaha",
+            "Lincoln",
+            "Bellevue",
+            "Grand Island",
+            "Kearney",
+            "Fremont",
+            "Hastings",
+            "North Platte",
+            "Norfolk",
+            "Columbus"
+          ]
+        },
+        {
+          "name": "Nevada",
+          "code": "NV",
+          "cities": [
+            "Las Vegas",
+            "Henderson",
+            "Reno",
+            "North Las Vegas",
+            "Sparks",
+            "Carson City",
+            "Fernley",
+            "Elko",
+            "Mesquite",
+            "Boulder City"
+          ]
+        },
+        {
+          "name": "New Hampshire",
+          "code": "NH",
+          "cities": [
+            "Manchester",
+            "Nashua",
+            "Concord",
+            "Derry",
+            "Dover",
+            "Rochester",
+            "Salem",
+            "Keene",
+            "Londonderry",
+            "Hudson"
+          ]
+        },
+        {
+          "name": "New Jersey",
+          "code": "NJ",
+          "cities": [
+            "Newark",
+            "Jersey City",
+            "Paterson",
+            "Elizabeth",
+            "Edison",
+            "Woodbridge",
+            "Lakewood",
+            "Toms River",
+            "Hamilton",
+            "Trenton"
+          ]
+        },
+        {
+          "name": "New Mexico",
+          "code": "NM",
+          "cities": [
+            "Albuquerque",
+            "Las Cruces",
+            "Rio Rancho",
+            "Santa Fe",
+            "Roswell",
+            "Farmington",
+            "Clovis",
+            "Hobbs",
+            "Alamogordo",
+            "Carlsbad"
+          ]
+        },
+        {
+          "name": "New York",
+          "code": "NY",
+          "cities": [
+            "New York City",
+            "Buffalo",
+            "Rochester",
+            "Yonkers",
+            "Syracuse",
+            "Albany",
+            "New Rochelle",
+            "Mount Vernon",
+            "Schenectady",
+            "Utica"
+          ]
+        },
+        {
+          "name": "North Carolina",
+          "code": "NC",
+          "cities": [
+            "Charlotte",
+            "Raleigh",
+            "Greensboro",
+            "Durham",
+            "Winston-Salem",
+            "Fayetteville",
+            "Cary",
+            "Wilmington",
+            "High Point",
+            "Concord"
+          ]
+        },
+        {
+          "name": "North Dakota",
+          "code": "ND",
+          "cities": [
+            "Fargo",
+            "Bismarck",
+            "Grand Forks",
+            "Minot",
+            "West Fargo",
+            "Williston",
+            "Dickinson",
+            "Mandan",
+            "Jamestown",
+            "Wahpeton"
+          ]
+        },
+        {
+          "name": "Ohio",
+          "code": "OH",
+          "cities": [
+            "Columbus",
+            "Cleveland",
+            "Cincinnati",
+            "Toledo",
+            "Akron",
+            "Dayton",
+            "Parma",
+            "Canton",
+            "Youngstown",
+            "Lorain"
+          ]
+        },
+        {
+          "name": "Oklahoma",
+          "code": "OK",
+          "cities": [
+            "Oklahoma City",
+            "Tulsa",
+            "Norman",
+            "Broken Arrow",
+            "Lawton",
+            "Edmond",
+            "Moore",
+            "Midwest City",
+            "Enid",
+            "Stillwater"
+          ]
+        },
+        {
+          "name": "Oregon",
+          "code": "OR",
+          "cities": [
+            "Portland",
+            "Salem",
+            "Eugene",
+            "Gresham",
+            "Hillsboro",
+            "Bend",
+            "Beaverton",
+            "Medford",
+            "Springfield",
+            "Corvallis"
+          ]
+        },
+        {
+          "name": "Pennsylvania",
+          "code": "PA",
+          "cities": [
+            "Philadelphia",
+            "Pittsburgh",
+            "Allentown",
+            "Erie",
+            "Reading",
+            "Scranton",
+            "Bethlehem",
+            "Lancaster",
+            "Harrisburg",
+            "Altoona"
+          ]
+        },
+        {
+          "name": "Rhode Island",
+          "code": "RI",
+          "cities": [
+            "Providence",
+            "Warwick",
+            "Cranston",
+            "Pawtucket",
+            "East Providence",
+            "Woonsocket",
+            "Newport",
+            "Central Falls",
+            "Westerly",
+            "Cumberland"
+          ]
+        },
+        {
+          "name": "South Carolina",
+          "code": "SC",
+          "cities": [
+            "Columbia",
+            "Charleston",
+            "North Charleston",
+            "Mount Pleasant",
+            "Rock Hill",
+            "Greenville",
+            "Summerville",
+            "Sumter",
+            "Hilton Head Island",
+            "Spartanburg"
+          ]
+        },
+        {
+          "name": "South Dakota",
+          "code": "SD",
+          "cities": [
+            "Sioux Falls",
+            "Rapid City",
+            "Aberdeen",
+            "Brookings",
+            "Watertown",
+            "Mitchell",
+            "Yankton",
+            "Pierre",
+            "Huron",
+            "Vermillion"
+          ]
+        },
+        {
+          "name": "Tennessee",
+          "code": "TN",
+          "cities": [
+            "Nashville",
+            "Memphis",
+            "Knoxville",
+            "Chattanooga",
+            "Clarksville",
+            "Murfreesboro",
+            "Franklin",
+            "Jackson",
+            "Johnson City",
+            "Bartlett"
+          ]
+        },
+        {
+          "name": "Texas",
+          "code": "TX",
+          "cities": [
+            "Houston",
+            "San Antonio",
+            "Dallas",
+            "Austin",
+            "Fort Worth",
+            "El Paso",
+            "Arlington",
+            "Corpus Christi",
+            "Plano",
+            "Lubbock"
+          ]
+        },
+        {
+          "name": "Utah",
+          "code": "UT",
+          "cities": [
+            "Salt Lake City",
+            "West Valley City",
+            "Provo",
+            "West Jordan",
+            "Orem",
+            "Sandy",
+            "Ogden",
+            "St. George",
+            "Layton",
+            "Taylorsville"
+          ]
+        },
+        {
+          "name": "Vermont",
+          "code": "VT",
+          "cities": [
+            "Burlington",
+            "Essex",
+            "South Burlington",
+            "Colchester",
+            "Rutland",
+            "Montpelier",
+            "Barre",
+            "St. Albans",
+            "Winooski",
+            "Brattleboro"
+          ]
+        },
+        {
+          "name": "Virginia",
+          "code": "VA",
+          "cities": [
+            "Virginia Beach",
+            "Norfolk",
+            "Chesapeake",
+            "Richmond",
+            "Newport News",
+            "Alexandria",
+            "Hampton",
+            "Portsmouth",
+            "Suffolk",
+            "Roanoke"
+          ]
+        },
+        {
+          "name": "Washington",
+          "code": "WA",
+          "cities": [
+            "Seattle",
+            "Spokane",
+            "Tacoma",
+            "Vancouver",
+            "Bellevue",
+            "Kent",
+            "Everett",
+            "Renton",
+            "Yakima",
+            "Federal Way"
+          ]
+        },
+        {
+          "name": "West Virginia",
+          "code": "WV",
+          "cities": [
+            "Charleston",
+            "Huntington",
+            "Parkersburg",
+            "Morgantown",
+            "Wheeling",
+            "Martinsburg",
+            "Fairmont",
+            "Beckley",
+            "Clarksburg",
+            "South Charleston"
+          ]
+        },
+        {
+          "name": "Wisconsin",
+          "code": "WI",
+          "cities": [
+            "Milwaukee",
+            "Madison",
+            "Green Bay",
+            "Kenosha",
+            "Racine",
+            "Appleton",
+            "Waukesha",
+            "Oshkosh",
+            "Eau Claire",
+            "Janesville"
+          ]
+        },
+        {
+          "name": "Wyoming",
+          "code": "WY",
+          "cities": [
+            "Cheyenne",
+            "Casper",
+            "Laramie",
+            "Gillette",
+            "Rock Springs",
+            "Sheridan",
+            "Green River",
+            "Evanston",
+            "Riverton",
+            "Jackson"
+          ]
+        },
+        {
+          "name": "Washington D.C.",
+          "code": "DC",
+          "cities": [
+            "Washington",
+            "Georgetown",
+            "Dupont Circle",
+            "Adams Morgan",
+            "Capitol Hill",
+            "Foggy Bottom",
+            "Shaw",
+            "Logan Circle",
+            "U Street",
+            "Chinatown"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "states": [
+        {
+          "name": "Alberta",
+          "code": "AB",
+          "cities": [
+            "Calgary",
+            "Edmonton",
+            "Red Deer",
+            "Lethbridge",
+            "St. Albert",
+            "Medicine Hat",
+            "Grande Prairie",
+            "Airdrie",
+            "Spruce Grove",
+            "Leduc"
+          ]
+        },
+        {
+          "name": "British Columbia",
+          "code": "BC",
+          "cities": [
+            "Vancouver",
+            "Victoria",
+            "Surrey",
+            "Burnaby",
+            "Richmond",
+            "Abbotsford",
+            "Coquitlam",
+            "Saanich",
+            "Delta",
+            "Kelowna"
+          ]
+        },
+        {
+          "name": "Manitoba",
+          "code": "MB",
+          "cities": [
+            "Winnipeg",
+            "Brandon",
+            "Steinbach",
+            "Thompson",
+            "Portage la Prairie",
+            "Winkler",
+            "Selkirk",
+            "Morden",
+            "Flin Flon",
+            "Dauphin"
+          ]
+        },
+        {
+          "name": "New Brunswick",
+          "code": "NB",
+          "cities": [
+            "Moncton",
+            "Saint John",
+            "Fredericton",
+            "Dieppe",
+            "Riverview",
+            "Quispamsis",
+            "Miramichi",
+            "Edmundston",
+            "Bathurst",
+            "Campbellton"
+          ]
+        },
+        {
+          "name": "Newfoundland and Labrador",
+          "code": "NL",
+          "cities": [
+            "St. John's",
+            "Mount Pearl",
+            "Conception Bay South",
+            "Corner Brook",
+            "Grand Falls-Windsor",
+            "Gander",
+            "Happy Valley-Goose Bay",
+            "Labrador City",
+            "Stephenville",
+            "Deer Lake"
+          ]
+        },
+        {
+          "name": "Northwest Territories",
+          "code": "NT",
+          "cities": [
+            "Yellowknife",
+            "Hay River",
+            "Inuvik",
+            "Fort Smith",
+            "Behchoko",
+            "Whati",
+            "Gameti",
+            "Wekweeti",
+            "Tulita",
+            "Norman Wells"
+          ]
+        },
+        {
+          "name": "Nova Scotia",
+          "code": "NS",
+          "cities": [
+            "Halifax",
+            "Sydney",
+            "Dartmouth",
+            "Truro",
+            "New Glasgow",
+            "Glace Bay",
+            "Kentville",
+            "Amherst",
+            "Bridgewater",
+            "Yarmouth"
+          ]
+        },
+        {
+          "name": "Nunavut",
+          "code": "NU",
+          "cities": [
+            "Iqaluit",
+            "Rankin Inlet",
+            "Arviat",
+            "Baker Lake",
+            "Cambridge Bay",
+            "Pangnirtung",
+            "Pond Inlet",
+            "Kugluktuk",
+            "Cape Dorset",
+            "Gjoa Haven"
+          ]
+        },
+        {
+          "name": "Ontario",
+          "code": "ON",
+          "cities": [
+            "Toronto",
+            "Ottawa",
+            "Hamilton",
+            "London",
+            "Kitchener",
+            "Windsor",
+            "Oshawa",
+            "Barrie",
+            "Kingston",
+            "Guelph"
+          ]
+        },
+        {
+          "name": "Prince Edward Island",
+          "code": "PE",
+          "cities": [
+            "Charlottetown",
+            "Summerside",
+            "Stratford",
+            "Cornwall",
+            "Montague",
+            "Kensington",
+            "Alberton",
+            "Souris",
+            "Tignish",
+            "Georgetown"
+          ]
+        },
+        {
+          "name": "Quebec",
+          "code": "QC",
+          "cities": [
+            "Montreal",
+            "Quebec City",
+            "Laval",
+            "Gatineau",
+            "Longueuil",
+            "Sherbrooke",
+            "Saguenay",
+            "Levis",
+            "Trois-Rivieres",
+            "Terrebonne"
+          ]
+        },
+        {
+          "name": "Saskatchewan",
+          "code": "SK",
+          "cities": [
+            "Saskatoon",
+            "Regina",
+            "Prince Albert",
+            "Moose Jaw",
+            "Swift Current",
+            "Yorkton",
+            "North Battleford",
+            "Estevan",
+            "Weyburn",
+            "Lloydminster"
+          ]
+        },
+        {
+          "name": "Yukon",
+          "code": "YT",
+          "cities": [
+            "Whitehorse",
+            "Dawson City",
+            "Watson Lake",
+            "Haines Junction",
+            "Carmacks",
+            "Mayo",
+            "Ross River",
+            "Pelly Crossing",
+            "Faro",
+            "Teslin"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "states": [
+        {
+          "name": "England",
+          "code": "ENG",
+          "cities": [
+            "London",
+            "Birmingham",
+            "Manchester",
+            "Liverpool",
+            "Leeds",
+            "Sheffield",
+            "Bristol",
+            "Nottingham",
+            "Leicester",
+            "Coventry"
+          ]
+        },
+        {
+          "name": "Scotland",
+          "code": "SCT",
+          "cities": [
+            "Edinburgh",
+            "Glasgow",
+            "Aberdeen",
+            "Dundee",
+            "Stirling",
+            "Perth",
+            "Inverness",
+            "Paisley",
+            "East Kilbride",
+            "Livingston"
+          ]
+        },
+        {
+          "name": "Wales",
+          "code": "WLS",
+          "cities": [
+            "Cardiff",
+            "Swansea",
+            "Newport",
+            "Wrexham",
+            "Barry",
+            "Caerphilly",
+            "Rhondda",
+            "Merthyr Tydfil",
+            "Bridgend",
+            "Port Talbot"
+          ]
+        },
+        {
+          "name": "Northern Ireland",
+          "code": "NIR",
+          "cities": [
+            "Belfast",
+            "Derry",
+            "Lisburn",
+            "Newtownabbey",
+            "Bangor",
+            "Craigavon",
+            "Castlereagh",
+            "Ballymena",
+            "Newtownards",
+            "Carrickfergus"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "states": [
+        {
+          "name": "Baden-Wurttemberg",
+          "code": "BW",
+          "cities": [
+            "Stuttgart",
+            "Mannheim",
+            "Karlsruhe",
+            "Freiburg",
+            "Heidelberg",
+            "Heilbronn",
+            "Ulm",
+            "Pforzheim",
+            "Reutlingen",
+            "Esslingen"
+          ]
+        },
+        {
+          "name": "Bavaria",
+          "code": "BY",
+          "cities": [
+            "Munich",
+            "Nuremberg",
+            "Augsburg",
+            "Regensburg",
+            "Wurzburg",
+            "Ingolstadt",
+            "Furth",
+            "Erlangen",
+            "Bayreuth",
+            "Bamberg"
+          ]
+        },
+        {
+          "name": "Berlin",
+          "code": "BE",
+          "cities": [
+            "Berlin",
+            "Charlottenburg",
+            "Kreuzberg",
+            "Prenzlauer Berg",
+            "Friedrichshain",
+            "Mitte",
+            "Neukolln",
+            "Tempelhof",
+            "Schoneberg",
+            "Steglitz"
+          ]
+        },
+        {
+          "name": "Brandenburg",
+          "code": "BB",
+          "cities": [
+            "Potsdam",
+            "Cottbus",
+            "Brandenburg an der Havel",
+            "Frankfurt (Oder)",
+            "Oranienburg",
+            "Falkensee",
+            "Eberswalde",
+            "Bernau bei Berlin",
+            "Konigs Wusterhausen",
+            "Furstenwalde"
+          ]
+        },
+        {
+          "name": "Bremen",
+          "code": "HB",
+          "cities": [
+            "Bremen",
+            "Bremerhaven",
+            "Delmenhorst",
+            "Oldenburg",
+            "Osnabruck",
+            "Wilhelmshaven",
+            "Emden",
+            "Leer",
+            "Papenburg",
+            "Aurich"
+          ]
+        },
+        {
+          "name": "Hamburg",
+          "code": "HH",
+          "cities": [
+            "Hamburg",
+            "Altona",
+            "Eimsbuttel",
+            "Harburg",
+            "Bergedorf",
+            "Wandsbek",
+            "Billstedt",
+            "Lokstedt",
+            "Ottensen",
+            "Barmbek"
+          ]
+        },
+        {
+          "name": "Hesse",
+          "code": "HE",
+          "cities": [
+            "Frankfurt",
+            "Wiesbaden",
+            "Kassel",
+            "Darmstadt",
+            "Offenbach",
+            "Hanau",
+            "Marburg",
+            "Gießen",
+            "Fulda",
+            "Rüsselsheim"
+          ]
+        },
+        {
+          "name": "Lower Saxony",
+          "code": "NI",
+          "cities": [
+            "Hanover",
+            "Braunschweig",
+            "Osnabruck",
+            "Oldenburg",
+            "Gottingen",
+            "Wolfsburg",
+            "Hildesheim",
+            "Salzgitter",
+            "Wilhelmshaven",
+            "Delmenhorst"
+          ]
+        },
+        {
+          "name": "Mecklenburg-Vorpommern",
+          "code": "MV",
+          "cities": [
+            "Schwerin",
+            "Rostock",
+            "Greifswald",
+            "Stralsund",
+            "Wismar",
+            "Neubrandenburg",
+            "Gustrow",
+            "Waren",
+            "Neustrelitz",
+            "Parchim"
+          ]
+        },
+        {
+          "name": "North Rhine-Westphalia",
+          "code": "NW",
+          "cities": [
+            "Cologne",
+            "Dusseldorf",
+            "Dortmund",
+            "Essen",
+            "Duisburg",
+            "Bochum",
+            "Wuppertal",
+            "Bielefeld",
+            "Bonn",
+            "Munster"
+          ]
+        },
+        {
+          "name": "Rhineland-Palatinate",
+          "code": "RP",
+          "cities": [
+            "Mainz",
+            "Ludwigshafen",
+            "Koblenz",
+            "Trier",
+            "Kaiserslautern",
+            "Worms",
+            "Neuwied",
+            "Speyer",
+            "Frankenthal",
+            "Landau"
+          ]
+        },
+        {
+          "name": "Saarland",
+          "code": "SL",
+          "cities": [
+            "Saarbrucken",
+            "Neunkirchen",
+            "Homburg",
+            "Völklingen",
+            "Sankt Ingbert",
+            "Saarlouis",
+            "Merzig",
+            "Sankt Wendel",
+            "Blieskastel",
+            "Dillingen"
+          ]
+        },
+        {
+          "name": "Saxony",
+          "code": "SN",
+          "cities": [
+            "Dresden",
+            "Leipzig",
+            "Chemnitz",
+            "Zwickau",
+            "Plauen",
+            "Görlitz",
+            "Freiberg",
+            "Bautzen",
+            "Pirna",
+            "Freital"
+          ]
+        },
+        {
+          "name": "Saxony-Anhalt",
+          "code": "ST",
+          "cities": [
+            "Magdeburg",
+            "Halle",
+            "Dessau-Roßlau",
+            "Lutherstadt Wittenberg",
+            "Halberstadt",
+            "Stendal",
+            "Burg",
+            "Schönebeck",
+            "Wernigerode",
+            "Merseburg"
+          ]
+        },
+        {
+          "name": "Schleswig-Holstein",
+          "code": "SH",
+          "cities": [
+            "Kiel",
+            "Lubeck",
+            "Flensburg",
+            "Neumunster",
+            "Norderstedt",
+            "Elmshorn",
+            "Pinneberg",
+            "Itzehoe",
+            "Wedel",
+            "Ahrensburg"
+          ]
+        },
+        {
+          "name": "Thuringia",
+          "code": "TH",
+          "cities": [
+            "Erfurt",
+            "Jena",
+            "Gera",
+            "Weimar",
+            "Gotha",
+            "Eisenach",
+            "Nordhausen",
+            "Suhl",
+            "Altenburg",
+            "Muhlhausen"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "states": [
+        {
+          "name": "Auvergne-Rhone-Alpes",
+          "code": "ARA",
+          "cities": [
+            "Lyon",
+            "Saint-Étienne",
+            "Grenoble",
+            "Villeurbanne",
+            "Clermont-Ferrand",
+            "Annecy",
+            "Valence",
+            "Chambéry",
+            "Le Puy-en-Velay",
+            "Roanne"
+          ]
+        },
+        {
+          "name": "Bourgogne-Franche-Comte",
+          "code": "BFC",
+          "cities": [
+            "Dijon",
+            "Besancon",
+            "Belfort",
+            "Chalon-sur-Saone",
+            "Nevers",
+            "Auxerre",
+            "Montbeliard",
+            "Macon",
+            "Vesoul",
+            "Sens"
+          ]
+        },
+        {
+          "name": "Brittany",
+          "code": "BRE",
+          "cities": [
+            "Rennes",
+            "Brest",
+            "Quimper",
+            "Lorient",
+            "Vannes",
+            "Saint-Malo",
+            "Saint-Brieuc",
+            "Lannion",
+            "Fougeres",
+            "Concarneau"
+          ]
+        },
+        {
+          "name": "Centre-Val de Loire",
+          "code": "CVL",
+          "cities": [
+            "Orleans",
+            "Tours",
+            "Bourges",
+            "Blois",
+            "Chartres",
+            "Chateauroux",
+            "Dreux",
+            "Vierzon",
+            "Joué-lès-Tours",
+            "Fleury-les-Aubrais"
+          ]
+        },
+        {
+          "name": "Corsica",
+          "code": "COR",
+          "cities": [
+            "Ajaccio",
+            "Bastia",
+            "Porto-Vecchio",
+            "Corte",
+            "Calvi",
+            "Bonifacio",
+            "Propriano",
+            "L'Île-Rousse",
+            "Sartene",
+            "Biguglia"
+          ]
+        },
+        {
+          "name": "Grand Est",
+          "code": "GES",
+          "cities": [
+            "Strasbourg",
+            "Reims",
+            "Metz",
+            "Nancy",
+            "Mulhouse",
+            "Colmar",
+            "Troyes",
+            "Charleville-Mezieres",
+            "Chalons-en-Champagne",
+            "Thionville"
+          ]
+        },
+        {
+          "name": "Hauts-de-France",
+          "code": "HDF",
+          "cities": [
+            "Lille",
+            "Amiens",
+            "Roubaix",
+            "Tourcoing",
+            "Dunkerque",
+            "Calais",
+            "Villeneuve-d'Ascq",
+            "Saint-Quentin",
+            "Beauvais",
+            "Valenciennes"
+          ]
+        },
+        {
+          "name": "Ile-de-France",
+          "code": "IDF",
+          "cities": [
+            "Paris",
+            "Boulogne-Billancourt",
+            "Saint-Denis",
+            "Argenteuil",
+            "Montreuil",
+            "Nanterre",
+            "Créteil",
+            "Versailles",
+            "Courbevoie",
+            "Vitry-sur-Seine"
+          ]
+        },
+        {
+          "name": "Normandy",
+          "code": "NOR",
+          "cities": [
+            "Rouen",
+            "Le Havre",
+            "Caen",
+            "Cherbourg-en-Cotentin",
+            "Evreux",
+            "Dieppe",
+            "Alencon",
+            "Saint-Etienne-du-Rouvray",
+            "Sotteville-les-Rouen",
+            "Le Grand-Quevilly"
+          ]
+        },
+        {
+          "name": "Nouvelle-Aquitaine",
+          "code": "NAQ",
+          "cities": [
+            "Bordeaux",
+            "Limoges",
+            "Poitiers",
+            "La Rochelle",
+            "Angouleme",
+            "Niort",
+            "Bayonne",
+            "Pau",
+            "Agen",
+            "Brive-la-Gaillarde"
+          ]
+        },
+        {
+          "name": "Occitanie",
+          "code": "OCC",
+          "cities": [
+            "Toulouse",
+            "Montpellier",
+            "Nimes",
+            "Perpignan",
+            "Beziers",
+            "Montauban",
+            "Albi",
+            "Carcassonne",
+            "Narbonne",
+            "Castres"
+          ]
+        },
+        {
+          "name": "Pays de la Loire",
+          "code": "PDL",
+          "cities": [
+            "Nantes",
+            "Le Mans",
+            "Angers",
+            "Saint-Nazaire",
+            "Cholet",
+            "La Roche-sur-Yon",
+            "Laval",
+            "Levallois-Perret",
+            "Reze",
+            "Saint-Herblain"
+          ]
+        },
+        {
+          "name": "Provence-Alpes-Cote d'Azur",
+          "code": "PAC",
+          "cities": [
+            "Marseille",
+            "Nice",
+            "Toulon",
+            "Aix-en-Provence",
+            "Avignon",
+            "Antibes",
+            "Cannes",
+            "La Seyne-sur-Mer",
+            "Hyères",
+            "Fréjus"
+          ]
+        },
+        {
+          "name": "French Guiana",
+          "code": "GF",
+          "cities": [
+            "Cayenne",
+            "Saint-Laurent-du-Maroni",
+            "Kourou",
+            "Matoury",
+            "Remire-Montjoly",
+            "Macouria",
+            "Apatou",
+            "Mana",
+            "Sinnamary",
+            "Iracoubo"
+          ]
+        },
+        {
+          "name": "Guadeloupe",
+          "code": "GP",
+          "cities": [
+            "Pointe-a-Pitre",
+            "Les Abymes",
+            "Le Gosier",
+            "Sainte-Anne",
+            "Le Moule",
+            "Petit-Bourg",
+            "Baie-Mahault",
+            "Capesterre-Belle-Eau",
+            "Sainte-Rose",
+            "Lamentin"
+          ]
+        },
+        {
+          "name": "Martinique",
+          "code": "MQ",
+          "cities": [
+            "Fort-de-France",
+            "Le Lamentin",
+            "Le Robert",
+            "Sainte-Marie",
+            "Ducos",
+            "Schoelcher",
+            "La Trinite",
+            "Riviere-Pilote",
+            "Le Francois",
+            "Saint-Joseph"
+          ]
+        },
+        {
+          "name": "Mayotte",
+          "code": "YT",
+          "cities": [
+            "Mamoudzou",
+            "Dzaoudzi",
+            "Koungou",
+            "Dembeni",
+            "Sada",
+            "Bandraboua",
+            "Kani-Keli",
+            "Mtsamboro",
+            "Acoua",
+            "Mtsangamouji"
+          ]
+        },
+        {
+          "name": "Reunion",
+          "code": "RE",
+          "cities": [
+            "Saint-Denis",
+            "Saint-Paul",
+            "Saint-Pierre",
+            "Le Tampon",
+            "Saint-Andre",
+            "Saint-Louis",
+            "Le Port",
+            "Saint-Benoit",
+            "Saint-Joseph",
+            "Sainte-Suzanne"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "states": [
+        {
+          "name": "Maharashtra",
+          "code": "MH",
+          "cities": [
+            "Mumbai",
+            "Pune",
+            "Nagpur",
+            "Nashik",
+            "Aurangabad",
+            "Solapur",
+            "Amravati",
+            "Kolhapur",
+            "Sangli",
+            "Malegaon"
+          ]
+        },
+        {
+          "name": "Karnataka",
+          "code": "KA",
+          "cities": [
+            "Bangalore",
+            "Hubli",
+            "Mysore",
+            "Gulbarga",
+            "Belgaum",
+            "Mangalore",
+            "Davanagere",
+            "Bellary",
+            "Bijapur",
+            "Shimoga"
+          ]
+        },
+        {
+          "name": "Tamil Nadu",
+          "code": "TN",
+          "cities": [
+            "Chennai",
+            "Coimbatore",
+            "Madurai",
+            "Tiruchirappalli",
+            "Salem",
+            "Tirunelveli",
+            "Tiruppur",
+            "Erode",
+            "Vellore",
+            "Thoothukkudi"
+          ]
+        },
+        {
+          "name": "Uttar Pradesh",
+          "code": "UP",
+          "cities": [
+            "Lucknow",
+            "Kanpur",
+            "Agra",
+            "Varanasi",
+            "Meerut",
+            "Allahabad",
+            "Bareilly",
+            "Ghaziabad",
+            "Moradabad",
+            "Aligarh"
+          ]
+        },
+        {
+          "name": "Gujarat",
+          "code": "GJ",
+          "cities": [
+            "Ahmedabad",
+            "Surat",
+            "Vadodara",
+            "Rajkot",
+            "Bhavnagar",
+            "Jamnagar",
+            "Junagadh",
+            "Gandhinagar",
+            "Nadiad",
+            "Morbi"
+          ]
+        },
+        {
+          "name": "Rajasthan",
+          "code": "RJ",
+          "cities": [
+            "Jaipur",
+            "Jodhpur",
+            "Udaipur",
+            "Kota",
+            "Bikaner",
+            "Ajmer",
+            "Bharatpur",
+            "Alwar",
+            "Sikar",
+            "Pali"
+          ]
+        },
+        {
+          "name": "West Bengal",
+          "code": "WB",
+          "cities": [
+            "Kolkata",
+            "Asansol",
+            "Siliguri",
+            "Durgapur",
+            "Bardhaman",
+            "Malda",
+            "Bahrampur",
+            "Habra",
+            "Kharagpur",
+            "Shantipur"
+          ]
+        },
+        {
+          "name": "Madhya Pradesh",
+          "code": "MP",
+          "cities": [
+            "Bhopal",
+            "Indore",
+            "Gwalior",
+            "Jabalpur",
+            "Ujjain",
+            "Sagar",
+            "Dewas",
+            "Satna",
+            "Ratlam",
+            "Rewa"
+          ]
+        },
+        {
+          "name": "Andhra Pradesh",
+          "code": "AP",
+          "cities": [
+            "Hyderabad",
+            "Visakhapatnam",
+            "Vijayawada",
+            "Guntur",
+            "Nellore",
+            "Kurnool",
+            "Rajahmundry",
+            "Tirupati",
+            "Kadapa",
+            "Anantapur"
+          ]
+        },
+        {
+          "name": "Telangana",
+          "code": "TG",
+          "cities": [
+            "Hyderabad",
+            "Warangal",
+            "Nizamabad",
+            "Khammam",
+            "Karimnagar",
+            "Ramagundam",
+            "Mahbubnagar",
+            "Nalgonda",
+            "Adilabad",
+            "Suryapet"
+          ]
+        },
+        {
+          "name": "Kerala",
+          "code": "KL",
+          "cities": [
+            "Thiruvananthapuram",
+            "Kochi",
+            "Kozhikode",
+            "Thrissur",
+            "Kollam",
+            "Palakkad",
+            "Alappuzha",
+            "Malappuram",
+            "Kannur",
+            "Kasaragod"
+          ]
+        },
+        {
+          "name": "Punjab",
+          "code": "PB",
+          "cities": [
+            "Chandigarh",
+            "Ludhiana",
+            "Amritsar",
+            "Jalandhar",
+            "Patiala",
+            "Bathinda",
+            "Mohali",
+            "Firozpur",
+            "Batala",
+            "Pathankot"
+          ]
+        },
+        {
+          "name": "Haryana",
+          "code": "HR",
+          "cities": [
+            "Chandigarh",
+            "Faridabad",
+            "Gurgaon",
+            "Panipat",
+            "Ambala",
+            "Yamunanagar",
+            "Rohtak",
+            "Hisar",
+            "Karnal",
+            "Sonipat"
+          ]
+        },
+        {
+          "name": "Delhi",
+          "code": "DL",
+          "cities": [
+            "New Delhi",
+            "Central Delhi",
+            "North Delhi",
+            "South Delhi",
+            "East Delhi",
+            "West Delhi",
+            "North East Delhi",
+            "North West Delhi",
+            "South East Delhi",
+            "South West Delhi"
+          ]
+        },
+        {
+          "name": "Bihar",
+          "code": "BR",
+          "cities": [
+            "Patna",
+            "Gaya",
+            "Bhagalpur",
+            "Muzaffarpur",
+            "Darbhanga",
+            "Purnia",
+            "Arrah",
+            "Begusarai",
+            "Katihar",
+            "Munger"
+          ]
+        },
+        {
+          "name": "Odisha",
+          "code": "OR",
+          "cities": [
+            "Bhubaneswar",
+            "Cuttack",
+            "Rourkela",
+            "Berhampur",
+            "Sambalpur",
+            "Puri",
+            "Balasore",
+            "Bhadrak",
+            "Baripada",
+            "Jharsuguda"
+          ]
+        },
+        {
+          "name": "Assam",
+          "code": "AS",
+          "cities": [
+            "Guwahati",
+            "Silchar",
+            "Dibrugarh",
+            "Jorhat",
+            "Nagaon",
+            "Tinsukia",
+            "Tezpur",
+            "Barpeta",
+            "Dhubri",
+            "Sivasagar"
+          ]
+        },
+        {
+          "name": "Jharkhand",
+          "code": "JH",
+          "cities": [
+            "Ranchi",
+            "Jamshedpur",
+            "Dhanbad",
+            "Bokaro",
+            "Deoghar",
+            "Phusro",
+            "Hazaribagh",
+            "Giridih",
+            "Ramgarh",
+            "Medininagar"
+          ]
+        },
+        {
+          "name": "Chhattisgarh",
+          "code": "CG",
+          "cities": [
+            "Raipur",
+            "Bhilai",
+            "Bilaspur",
+            "Korba",
+            "Rajnandgaon",
+            "Raigarh",
+            "Ambikapur",
+            "Mahasamund",
+            "Durg",
+            "Bhatapara"
+          ]
+        },
+        {
+          "name": "Himachal Pradesh",
+          "code": "HP",
+          "cities": [
+            "Shimla",
+            "Dharamshala",
+            "Solan",
+            "Mandi",
+            "Palampur",
+            "Kullu",
+            "Chamba",
+            "Baddi",
+            "Nahan",
+            "Una"
+          ]
+        },
+        {
+          "name": "Uttarakhand",
+          "code": "UK",
+          "cities": [
+            "Dehradun",
+            "Haridwar",
+            "Roorkee",
+            "Kashipur",
+            "Rudrapur",
+            "Haldwani",
+            "Rishikesh",
+            "Ramnagar",
+            "Pithoragarh",
+            "Almora"
+          ]
+        },
+        {
+          "name": "Jammu and Kashmir",
+          "code": "JK",
+          "cities": [
+            "Srinagar",
+            "Jammu",
+            "Anantnag",
+            "Baramulla",
+            "Sopore",
+            "Kathua",
+            "Udhampur",
+            "Punch",
+            "Rajauri",
+            "Kupwara"
+          ]
+        },
+        {
+          "name": "Goa",
+          "code": "GA",
+          "cities": [
+            "Panaji",
+            "Margao",
+            "Vasco da Gama",
+            "Mapusa",
+            "Ponda",
+            "Bicholim",
+            "Valpoi",
+            "Curchorem",
+            "Quepem",
+            "Canacona"
+          ]
+        },
+        {
+          "name": "Manipur",
+          "code": "MN",
+          "cities": [
+            "Imphal",
+            "Thoubal",
+            "Bishnupur",
+            "Churachandpur",
+            "Ukhrul",
+            "Senapati",
+            "Tamenglong",
+            "Chandel",
+            "Kakching",
+            "Jiribam"
+          ]
+        },
+        {
+          "name": "Meghalaya",
+          "code": "ML",
+          "cities": [
+            "Shillong",
+            "Tura",
+            "Jowai",
+            "Nongstoin",
+            "Baghmara",
+            "Williamnagar",
+            "Resubelpara",
+            "Mairang",
+            "Mawkyrwat",
+            "Ampati"
+          ]
+        },
+        {
+          "name": "Mizoram",
+          "code": "MZ",
+          "cities": [
+            "Aizawl",
+            "Lunglei",
+            "Saiha",
+            "Champhai",
+            "Kolasib",
+            "Serchhip",
+            "Lawngtlai",
+            "Mamit",
+            "Saitual",
+            "Khawzawl"
+          ]
+        },
+        {
+          "name": "Nagaland",
+          "code": "NL",
+          "cities": [
+            "Kohima",
+            "Dimapur",
+            "Mokokchung",
+            "Tuensang",
+            "Wokha",
+            "Zunheboto",
+            "Phek",
+            "Mon",
+            "Kiphire",
+            "Longleng"
+          ]
+        },
+        {
+          "name": "Tripura",
+          "code": "TR",
+          "cities": [
+            "Agartala",
+            "Dharmanagar",
+            "Udaipur",
+            "Ambassa",
+            "Kailashahar",
+            "Belonia",
+            "Khowai",
+            "Teliamura",
+            "Sabroom",
+            "Sonamura"
+          ]
+        },
+        {
+          "name": "Arunachal Pradesh",
+          "code": "AR",
+          "cities": [
+            "Itanagar",
+            "Naharlagun",
+            "Pasighat",
+            "Tezpur",
+            "Daporijo",
+            "Ziro",
+            "Along",
+            "Bomdila",
+            "Tawang",
+            "Khonsa"
+          ]
+        },
+        {
+          "name": "Sikkim",
+          "code": "SK",
+          "cities": [
+            "Gangtok",
+            "Namchi",
+            "Mangan",
+            "Gyalshing",
+            "Singtam",
+            "Rangpo",
+            "Jorethang",
+            "Pakyong",
+            "Ravangla",
+            "Lachen"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "states": [
+        {
+          "name": "Anhui",
+          "code": "AH",
+          "cities": [
+            "Hefei",
+            "Wuhu",
+            "Bengbu",
+            "Huainan",
+            "Ma'anshan",
+            "Huaibei",
+            "Tongling",
+            "Anqing",
+            "Huangshan",
+            "Chuzhou"
+          ]
+        },
+        {
+          "name": "Beijing",
+          "code": "BJ",
+          "cities": [
+            "Beijing",
+            "Chaoyang",
+            "Haidian",
+            "Fengtai",
+            "Shijingshan",
+            "Mentougou",
+            "Fangshan",
+            "Tongzhou",
+            "Shunyi",
+            "Changping"
+          ]
+        },
+        {
+          "name": "Chongqing",
+          "code": "CQ",
+          "cities": [
+            "Chongqing",
+            "Yuzhong",
+            "Dadukou",
+            "Jiangbei",
+            "Shapingba",
+            "Jiulongpo",
+            "Nan'an",
+            "Beibei",
+            "Wansheng",
+            "Qijiang"
+          ]
+        },
+        {
+          "name": "Fujian",
+          "code": "FJ",
+          "cities": [
+            "Fuzhou",
+            "Xiamen",
+            "Quanzhou",
+            "Zhangzhou",
+            "Putian",
+            "Sanming",
+            "Nanping",
+            "Longyan",
+            "Ningde",
+            "Jinjiang"
+          ]
+        },
+        {
+          "name": "Gansu",
+          "code": "GS",
+          "cities": [
+            "Lanzhou",
+            "Tianshui",
+            "Baiyin",
+            "Jinchang",
+            "Jiayuguan",
+            "Wuwei",
+            "Zhangye",
+            "Pingliang",
+            "Jiuquan",
+            "Qingyang"
+          ]
+        },
+        {
+          "name": "Guangdong",
+          "code": "GD",
+          "cities": [
+            "Guangzhou",
+            "Shenzhen",
+            "Dongguan",
+            "Foshan",
+            "Zhongshan",
+            "Huizhou",
+            "Jiangmen",
+            "Zhuhai",
+            "Shantou",
+            "Zhaoqing"
+          ]
+        },
+        {
+          "name": "Guangxi",
+          "code": "GX",
+          "cities": [
+            "Nanning",
+            "Liuzhou",
+            "Guilin",
+            "Wuzhou",
+            "Beihai",
+            "Fangchenggang",
+            "Qinzhou",
+            "Guigang",
+            "Yulin",
+            "Baise"
+          ]
+        },
+        {
+          "name": "Guizhou",
+          "code": "GZ",
+          "cities": [
+            "Guiyang",
+            "Liupanshui",
+            "Zunyi",
+            "Anshun",
+            "Bijie",
+            "Tongren",
+            "Qianxinan",
+            "Qiannan",
+            "Qiandongnan",
+            "Kaili"
+          ]
+        },
+        {
+          "name": "Hainan",
+          "code": "HI",
+          "cities": [
+            "Haikou",
+            "Sanya",
+            "Danzhou",
+            "Wenchang",
+            "Qionghai",
+            "Wanning",
+            "Dongfang",
+            "Ding'an",
+            "Tunchang",
+            "Chengmai"
+          ]
+        },
+        {
+          "name": "Hebei",
+          "code": "HE",
+          "cities": [
+            "Shijiazhuang",
+            "Tangshan",
+            "Qinhuangdao",
+            "Handan",
+            "Xingtai",
+            "Baoding",
+            "Zhangjiakou",
+            "Chengde",
+            "Cangzhou",
+            "Langfang"
+          ]
+        },
+        {
+          "name": "Heilongjiang",
+          "code": "HL",
+          "cities": [
+            "Harbin",
+            "Qiqihar",
+            "Jixi",
+            "Hegang",
+            "Shuangyashan",
+            "Daqing",
+            "Yichun",
+            "Jiamusi",
+            "Qitaihe",
+            "Mudanjiang"
+          ]
+        },
+        {
+          "name": "Henan",
+          "code": "HA",
+          "cities": [
+            "Zhengzhou",
+            "Kaifeng",
+            "Luoyang",
+            "Pingdingshan",
+            "Anyang",
+            "Hebi",
+            "Xinxiang",
+            "Jiaozuo",
+            "Puyang",
+            "Xuchang"
+          ]
+        },
+        {
+          "name": "Hubei",
+          "code": "HB",
+          "cities": [
+            "Wuhan",
+            "Huangshi",
+            "Shiyan",
+            "Yichang",
+            "Xiangyang",
+            "Ezhou",
+            "Jingmen",
+            "Xiaogan",
+            "Jingzhou",
+            "Huanggang"
+          ]
+        },
+        {
+          "name": "Hunan",
+          "code": "HN",
+          "cities": [
+            "Changsha",
+            "Zhuzhou",
+            "Xiangtan",
+            "Hengyang",
+            "Shaoyang",
+            "Yueyang",
+            "Changde",
+            "Zhangjiajie",
+            "Yiyang",
+            "Chenzhou"
+          ]
+        },
+        {
+          "name": "Inner Mongolia",
+          "code": "NM",
+          "cities": [
+            "Hohhot",
+            "Baotou",
+            "Wuhai",
+            "Chifeng",
+            "Tongliao",
+            "Ordos",
+            "Hulunbuir",
+            "Bayannur",
+            "Ulanqab",
+            "Xilingol"
+          ]
+        },
+        {
+          "name": "Jiangsu",
+          "code": "JS",
+          "cities": [
+            "Nanjing",
+            "Suzhou",
+            "Wuxi",
+            "Changzhou",
+            "Nantong",
+            "Yangzhou",
+            "Zhenjiang",
+            "Taizhou",
+            "Xuzhou",
+            "Lianyungang"
+          ]
+        },
+        {
+          "name": "Jiangxi",
+          "code": "JX",
+          "cities": [
+            "Nanchang",
+            "Jingdezhen",
+            "Pingxiang",
+            "Jiujiang",
+            "Xinyu",
+            "Yingtan",
+            "Ganzhou",
+            "Ji'an",
+            "Yichun",
+            "Fuzhou"
+          ]
+        },
+        {
+          "name": "Jilin",
+          "code": "JL",
+          "cities": [
+            "Changchun",
+            "Jilin",
+            "Siping",
+            "Liaoyuan",
+            "Tonghua",
+            "Baishan",
+            "Songyuan",
+            "Baicheng",
+            "Yanbian",
+            "Yanji"
+          ]
+        },
+        {
+          "name": "Liaoning",
+          "code": "LN",
+          "cities": [
+            "Shenyang",
+            "Dalian",
+            "Anshan",
+            "Fushun",
+            "Benxi",
+            "Dandong",
+            "Jinzhou",
+            "Yingkou",
+            "Fuxin",
+            "Liaoyang"
+          ]
+        },
+        {
+          "name": "Ningxia",
+          "code": "NX",
+          "cities": [
+            "Yinchuan",
+            "Shizuishan",
+            "Wuzhong",
+            "Guyuan",
+            "Zhongwei",
+            "Lingwu",
+            "Qingtongxia",
+            "Pingluo",
+            "Yongning",
+            "Helan"
+          ]
+        },
+        {
+          "name": "Qinghai",
+          "code": "QH",
+          "cities": [
+            "Xining",
+            "Haidong",
+            "Haibei",
+            "Huangnan",
+            "Hainan",
+            "Guoluo",
+            "Yushu",
+            "Haixi",
+            "Golmud",
+            "Delingha"
+          ]
+        },
+        {
+          "name": "Shaanxi",
+          "code": "SN",
+          "cities": [
+            "Xi'an",
+            "Tongchuan",
+            "Baoji",
+            "Xianyang",
+            "Weinan",
+            "Yan'an",
+            "Hanzhong",
+            "Yulin",
+            "Ankang",
+            "Shangluo"
+          ]
+        },
+        {
+          "name": "Shandong",
+          "code": "SD",
+          "cities": [
+            "Jinan",
+            "Qingdao",
+            "Yantai",
+            "Weifang",
+            "Jining",
+            "Zibo",
+            "Linyi",
+            "Dezhou",
+            "Tai'an",
+            "Liaocheng"
+          ]
+        },
+        {
+          "name": "Shanghai",
+          "code": "SH",
+          "cities": [
+            "Shanghai",
+            "Huangpu",
+            "Xuhui",
+            "Changning",
+            "Jing'an",
+            "Putuo",
+            "Hongkou",
+            "Yangpu",
+            "Minhang",
+            "Baoshan"
+          ]
+        },
+        {
+          "name": "Shanxi",
+          "code": "SX",
+          "cities": [
+            "Taiyuan",
+            "Datong",
+            "Yangquan",
+            "Changzhi",
+            "Jincheng",
+            "Shuozhou",
+            "Jinzhong",
+            "Yuncheng",
+            "Xinzhou",
+            "Linfen"
+          ]
+        },
+        {
+          "name": "Sichuan",
+          "code": "SC",
+          "cities": [
+            "Chengdu",
+            "Zigong",
+            "Panzhihua",
+            "Luzhou",
+            "Deyang",
+            "Mianyang",
+            "Guangyuan",
+            "Suining",
+            "Neijiang",
+            "Leshan"
+          ]
+        },
+        {
+          "name": "Tianjin",
+          "code": "TJ",
+          "cities": [
+            "Tianjin",
+            "Heping",
+            "Hedong",
+            "Hexi",
+            "Nankai",
+            "Hebei",
+            "Hongqiao",
+            "Dongli",
+            "Xiqing",
+            "Jinnan"
+          ]
+        },
+        {
+          "name": "Tibet",
+          "code": "XZ",
+          "cities": [
+            "Lhasa",
+            "Shigatse",
+            "Chamdo",
+            "Nyingchi",
+            "Shannan",
+            "Nagqu",
+            "Ngari",
+            "Xigaze",
+            "Qamdo",
+            "Lhoka"
+          ]
+        },
+        {
+          "name": "Xinjiang",
+          "code": "XJ",
+          "cities": [
+            "Urumqi",
+            "Karamay",
+            "Turpan",
+            "Hami",
+            "Changji",
+            "Bortala",
+            "Bayingol",
+            "Aksu",
+            "Kizilsu",
+            "Kashgar"
+          ]
+        },
+        {
+          "name": "Yunnan",
+          "code": "YN",
+          "cities": [
+            "Kunming",
+            "Qujing",
+            "Yuxi",
+            "Baoshan",
+            "Zhaotong",
+            "Lijiang",
+            "Pu'er",
+            "Lincang",
+            "Chuxiong",
+            "Honghe"
+          ]
+        },
+        {
+          "name": "Zhejiang",
+          "code": "ZJ",
+          "cities": [
+            "Hangzhou",
+            "Ningbo",
+            "Wenzhou",
+            "Jiaxing",
+            "Huzhou",
+            "Shaoxing",
+            "Jinhua",
+            "Quzhou",
+            "Zhoushan",
+            "Taizhou"
+          ]
+        },
+        {
+          "name": "Hong Kong",
+          "code": "HK",
+          "cities": [
+            "Hong Kong",
+            "Central",
+            "Wan Chai",
+            "Causeway Bay",
+            "Tsim Sha Tsui",
+            "Mong Kok",
+            "Yau Ma Tei",
+            "Jordan",
+            "Admiralty",
+            "Sheung Wan"
+          ]
+        },
+        {
+          "name": "Macau",
+          "code": "MO",
+          "cities": [
+            "Macau",
+            "Taipa",
+            "Coloane",
+            "Cotai",
+            "Nossa Senhora de Fatima",
+            "Santo Antonio",
+            "Sao Lazaro",
+            "Sao Lourenco",
+            "Se",
+            "Nossa Senhora do Carmo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "states": [
+        {
+          "name": "Aichi",
+          "code": "23",
+          "cities": [
+            "Nagoya",
+            "Toyohashi",
+            "Okazaki",
+            "Ichinomiya",
+            "Seto",
+            "Handa",
+            "Kasugai",
+            "Toyokawa",
+            "Tsushima",
+            "Hekinan"
+          ]
+        },
+        {
+          "name": "Akita",
+          "code": "05",
+          "cities": [
+            "Akita",
+            "Yokote",
+            "Odate",
+            "Kazuno",
+            "Yurihonjo",
+            "Daisen",
+            "Katagami",
+            "Kitaakita",
+            "Oga",
+            "Semboku"
+          ]
+        },
+        {
+          "name": "Aomori",
+          "code": "02",
+          "cities": [
+            "Aomori",
+            "Hachinohe",
+            "Hirosaki",
+            "Kuroishi",
+            "Goshogawara",
+            "Towada",
+            "Misawa",
+            "Mutsu",
+            "Tsugaru",
+            "Hirakawa"
+          ]
+        },
+        {
+          "name": "Chiba",
+          "code": "12",
+          "cities": [
+            "Chiba",
+            "Funabashi",
+            "Matsudo",
+            "Ichikawa",
+            "Kashiwa",
+            "Narashino",
+            "Sakura",
+            "Yachiyo",
+            "Abiko",
+            "Kamagaya"
+          ]
+        },
+        {
+          "name": "Ehime",
+          "code": "38",
+          "cities": [
+            "Matsuyama",
+            "Niihama",
+            "Shikokuchuo",
+            "Seiyo",
+            "Ozu",
+            "Imabari",
+            "Saijo",
+            "Toon",
+            "Uwajima",
+            "Yawatahama"
+          ]
+        },
+        {
+          "name": "Fukui",
+          "code": "18",
+          "cities": [
+            "Fukui",
+            "Tsuruga",
+            "Obama",
+            "Ono",
+            "Katsuyama",
+            "Sabae",
+            "Awara",
+            "Echizen",
+            "Sakai",
+            "Mikuni"
+          ]
+        },
+        {
+          "name": "Fukuoka",
+          "code": "40",
+          "cities": [
+            "Fukuoka",
+            "Kitakyushu",
+            "Kurume",
+            "Omuta",
+            "Nogata",
+            "Iizuka",
+            "Koga",
+            "Yanagawa",
+            "Yame",
+            "Chikugo"
+          ]
+        },
+        {
+          "name": "Fukushima",
+          "code": "07",
+          "cities": [
+            "Fukushima",
+            "Aizuwakamatsu",
+            "Koriyama",
+            "Iwaki",
+            "Shirakawa",
+            "Sukagawa",
+            "Kitakata",
+            "Soma",
+            "Nihonmatsu",
+            "Tamura"
+          ]
+        },
+        {
+          "name": "Gifu",
+          "code": "21",
+          "cities": [
+            "Gifu",
+            "Ogaki",
+            "Takayama",
+            "Tajimi",
+            "Seki",
+            "Nakatsugawa",
+            "Mino",
+            "Mizunami",
+            "Hashima",
+            "Ena"
+          ]
+        },
+        {
+          "name": "Gunma",
+          "code": "10",
+          "cities": [
+            "Maebashi",
+            "Takasaki",
+            "Kiryu",
+            "Isesaki",
+            "Ota",
+            "Numata",
+            "Tatebayashi",
+            "Fujioka",
+            "Tomoka",
+            "Annaka"
+          ]
+        },
+        {
+          "name": "Hiroshima",
+          "code": "34",
+          "cities": [
+            "Hiroshima",
+            "Fukuyama",
+            "Onomichi",
+            "Kure",
+            "Mihara",
+            "Fuchu",
+            "Miyoshi",
+            "Shobara",
+            "Otake",
+            "Hatsukaichi"
+          ]
+        },
+        {
+          "name": "Hokkaido",
+          "code": "01",
+          "cities": [
+            "Sapporo",
+            "Hakodate",
+            "Asahikawa",
+            "Kushiro",
+            "Obihiro",
+            "Kitami",
+            "Muroran",
+            "Otaru",
+            "Iwamizawa",
+            "Ebetsu"
+          ]
+        },
+        {
+          "name": "Hyogo",
+          "code": "28",
+          "cities": [
+            "Kobe",
+            "Himeji",
+            "Amagasaki",
+            "Akashi",
+            "Nishinomiya",
+            "Ashiya",
+            "Itami",
+            "Aioi",
+            "Toyooka",
+            "Kakogawa"
+          ]
+        },
+        {
+          "name": "Ibaraki",
+          "code": "08",
+          "cities": [
+            "Mito",
+            "Hitachi",
+            "Tsuchiura",
+            "Yuki",
+            "Ryugasaki",
+            "Shimotsuma",
+            "Joso",
+            "Hitachiota",
+            "Takahagi",
+            "Kitaibaraki"
+          ]
+        },
+        {
+          "name": "Ishikawa",
+          "code": "17",
+          "cities": [
+            "Kanazawa",
+            "Nanao",
+            "Komatsu",
+            "Kaga",
+            "Hakusan",
+            "Kahoku",
+            "Hakui",
+            "Nomi",
+            "Suzu",
+            "Wajima"
+          ]
+        },
+        {
+          "name": "Iwate",
+          "code": "03",
+          "cities": [
+            "Morioka",
+            "Hanamaki",
+            "Kitakami",
+            "Oshu",
+            "Kamaishi",
+            "Ofunato",
+            "Rikuzentakata",
+            "Miyako",
+            "Hachimantai",
+            "Takizawa"
+          ]
+        },
+        {
+          "name": "Kagawa",
+          "code": "37",
+          "cities": [
+            "Takamatsu",
+            "Marugame",
+            "Sakaide",
+            "Zentsuji",
+            "Kan'onji",
+            "Sanuki",
+            "Higashikagawa",
+            "Mitoyo",
+            "Ayauta",
+            "Utazu"
+          ]
+        },
+        {
+          "name": "Kagoshima",
+          "code": "46",
+          "cities": [
+            "Kagoshima",
+            "Kanoya",
+            "Makurazaki",
+            "Akune",
+            "Izumi",
+            "Ibusuki",
+            "Minamisatsuma",
+            "Nishinoomote",
+            "Tarumizu",
+            "Hioki"
+          ]
+        },
+        {
+          "name": "Kanagawa",
+          "code": "14",
+          "cities": [
+            "Yokohama",
+            "Kawasaki",
+            "Sagamihara",
+            "Yokosuka",
+            "Fujisawa",
+            "Hiratsuka",
+            "Chigasaki",
+            "Atsugi",
+            "Odawara",
+            "Kamakura"
+          ]
+        },
+        {
+          "name": "Kochi",
+          "code": "39",
+          "cities": [
+            "Kochi",
+            "Sukumo",
+            "Aki",
+            "Tosashimizu",
+            "Susaki",
+            "Tosa",
+            "Ino",
+            "Nankoku",
+            "Shimanto",
+            "Konan"
+          ]
+        },
+        {
+          "name": "Kumamoto",
+          "code": "43",
+          "cities": [
+            "Kumamoto",
+            "Yatsushiro",
+            "Hitoyoshi",
+            "Arao",
+            "Minamata",
+            "Tamana",
+            "Yamaga",
+            "Kikuchi",
+            "Uto",
+            "Kami-Amakusa"
+          ]
+        },
+        {
+          "name": "Kyoto",
+          "code": "26",
+          "cities": [
+            "Kyoto",
+            "Fukuchiyama",
+            "Maizuru",
+            "Ayabe",
+            "Uji",
+            "Miyazu",
+            "Kameoka",
+            "Joyo",
+            "Muko",
+            "Nagaokakyo"
+          ]
+        },
+        {
+          "name": "Mie",
+          "code": "24",
+          "cities": [
+            "Tsu",
+            "Yokkaichi",
+            "Ise",
+            "Matsusaka",
+            "Kuwana",
+            "Suzuka",
+            "Nabari",
+            "Owase",
+            "Kameyama",
+            "Toba"
+          ]
+        },
+        {
+          "name": "Miyagi",
+          "code": "04",
+          "cities": [
+            "Sendai",
+            "Ishinomaki",
+            "Shiogama",
+            "Shiroishi",
+            "Natori",
+            "Kakuda",
+            "Tagajo",
+            "Iwanuma",
+            "Tome",
+            "Kurihara"
+          ]
+        },
+        {
+          "name": "Miyazaki",
+          "code": "45",
+          "cities": [
+            "Miyazaki",
+            "Miyakonojo",
+            "Nobeoka",
+            "Nichinan",
+            "Kobayashi",
+            "Hyuga",
+            "Kushima",
+            "Saito",
+            "Ebino",
+            "Takanabe"
+          ]
+        },
+        {
+          "name": "Nagano",
+          "code": "20",
+          "cities": [
+            "Nagano",
+            "Matsumoto",
+            "Ueda",
+            "Iida",
+            "Okaya",
+            "Suwa",
+            "Suzaka",
+            "Komoro",
+            "Ina",
+            "Chino"
+          ]
+        },
+        {
+          "name": "Nagasaki",
+          "code": "42",
+          "cities": [
+            "Nagasaki",
+            "Sasebo",
+            "Shimabara",
+            "Isahaya",
+            "Omura",
+            "Hirado",
+            "Matsuura",
+            "Tsushima",
+            "Iki",
+            "Goto"
+          ]
+        },
+        {
+          "name": "Nara",
+          "code": "29",
+          "cities": [
+            "Nara",
+            "Yamatokoriyama",
+            "Tenri",
+            "Kashihara",
+            "Sakurai",
+            "Gojo",
+            "Gose",
+            "Ikoma",
+            "Kashiba",
+            "Katsuragi"
+          ]
+        },
+        {
+          "name": "Niigata",
+          "code": "15",
+          "cities": [
+            "Niigata",
+            "Nagaoka",
+            "Kashiwazaki",
+            "Shibata",
+            "Ojiya",
+            "Kamo",
+            "Mitsuke",
+            "Murakami",
+            "Tsubame",
+            "Itoigawa"
+          ]
+        },
+        {
+          "name": "Oita",
+          "code": "44",
+          "cities": [
+            "Oita",
+            "Beppu",
+            "Nakatsu",
+            "Hita",
+            "Saiki",
+            "Usuki",
+            "Tsukumi",
+            "Taketa",
+            "Bungo-Ono",
+            "Kitsuki"
+          ]
+        },
+        {
+          "name": "Okayama",
+          "code": "33",
+          "cities": [
+            "Okayama",
+            "Kurashiki",
+            "Tsuyama",
+            "Tamano",
+            "Kasaoka",
+            "Ibara",
+            "Soja",
+            "Takahashi",
+            "Niimi",
+            "Bizen"
+          ]
+        },
+        {
+          "name": "Okinawa",
+          "code": "47",
+          "cities": [
+            "Naha",
+            "Ginowan",
+            "Nishihara",
+            "Ishigaki",
+            "Urasoe",
+            "Nago",
+            "Itoman",
+            "Okinawa",
+            "Tomigusuku",
+            "Uruma"
+          ]
+        },
+        {
+          "name": "Osaka",
+          "code": "27",
+          "cities": [
+            "Osaka",
+            "Sakai",
+            "Higashiosaka",
+            "Toyonaka",
+            "Takatsuki",
+            "Hirakata",
+            "Neyagawa",
+            "Suita",
+            "Yao",
+            "Ibaraki"
+          ]
+        },
+        {
+          "name": "Saga",
+          "code": "41",
+          "cities": [
+            "Saga",
+            "Karatsu",
+            "Tosu",
+            "Imari",
+            "Takeo",
+            "Kashima",
+            "Ogi",
+            "Ureshino",
+            "Kanzaki",
+            "Shiroishi"
+          ]
+        },
+        {
+          "name": "Saitama",
+          "code": "11",
+          "cities": [
+            "Saitama",
+            "Kawagoe",
+            "Kumagaya",
+            "Kawaguchi",
+            "Gyoda",
+            "Chichibu",
+            "Tokorozawa",
+            "Hanno",
+            "Kazo",
+            "Honjo"
+          ]
+        },
+        {
+          "name": "Shiga",
+          "code": "25",
+          "cities": [
+            "Otsu",
+            "Hikone",
+            "Nagahama",
+            "Omihachiman",
+            "Kusatsu",
+            "Moriyama",
+            "Ritto",
+            "Koka",
+            "Yasu",
+            "Konan"
+          ]
+        },
+        {
+          "name": "Shimane",
+          "code": "32",
+          "cities": [
+            "Matsue",
+            "Hamada",
+            "Izumo",
+            "Masuda",
+            "Oda",
+            "Yasugi",
+            "Gotsu",
+            "Unnan",
+            "Oki",
+            "Iinan"
+          ]
+        },
+        {
+          "name": "Shizuoka",
+          "code": "22",
+          "cities": [
+            "Shizuoka",
+            "Hamamatsu",
+            "Numazu",
+            "Atami",
+            "Mishima",
+            "Fujinomiya",
+            "Ito",
+            "Shimada",
+            "Fuji",
+            "Iwata"
+          ]
+        },
+        {
+          "name": "Tochigi",
+          "code": "09",
+          "cities": [
+            "Utsunomiya",
+            "Ashikaga",
+            "Tochigi",
+            "Sano",
+            "Kanuma",
+            "Oyama",
+            "Moka",
+            "Otawara",
+            "Yaita",
+            "Nasu"
+          ]
+        },
+        {
+          "name": "Tokushima",
+          "code": "36",
+          "cities": [
+            "Tokushima",
+            "Naruto",
+            "Komatsushima",
+            "Anan",
+            "Yoshinogawa",
+            "Awa",
+            "Mima",
+            "Miyoshi",
+            "Higashimiyoshi",
+            "Kaiyo"
+          ]
+        },
+        {
+          "name": "Tokyo",
+          "code": "13",
+          "cities": [
+            "Tokyo",
+            "Hachioji",
+            "Machida",
+            "Koganei",
+            "Fuchu",
+            "Chofu",
+            "Kodaira",
+            "Hino",
+            "Higashimurayama",
+            "Kokubunji"
+          ]
+        },
+        {
+          "name": "Tottori",
+          "code": "31",
+          "cities": [
+            "Tottori",
+            "Yonago",
+            "Kurayoshi",
+            "Sakaiminato",
+            "Mizokuchi",
+            "Hokuei",
+            "Daisen",
+            "Nanbu",
+            "Hino",
+            "Nichinan"
+          ]
+        },
+        {
+          "name": "Toyama",
+          "code": "16",
+          "cities": [
+            "Toyama",
+            "Takaoka",
+            "Uozu",
+            "Himi",
+            "Namerikawa",
+            "Tonami",
+            "Oyabe",
+            "Nanto",
+            "Kurobe",
+            "Asahi"
+          ]
+        },
+        {
+          "name": "Wakayama",
+          "code": "30",
+          "cities": [
+            "Wakayama",
+            "Kainan",
+            "Hashimoto",
+            "Arida",
+            "Gobo",
+            "Tanabe",
+            "Shingu",
+            "Kinokawa",
+            "Iwade",
+            "Katsuragi"
+          ]
+        },
+        {
+          "name": "Yamagata",
+          "code": "06",
+          "cities": [
+            "Yamagata",
+            "Yonezawa",
+            "Shinjo",
+            "Sagae",
+            "Kaminoyama",
+            "Murayama",
+            "Nagai",
+            "Tendo",
+            "Higashine",
+            "Obanazawa"
+          ]
+        },
+        {
+          "name": "Yamaguchi",
+          "code": "35",
+          "cities": [
+            "Yamaguchi",
+            "Shimonoseki",
+            "Ube",
+            "Hagi",
+            "Hofu",
+            "Kudamatsu",
+            "Iwakuni",
+            "Hikari",
+            "Nagato",
+            "San'yo-Onoda"
+          ]
+        },
+        {
+          "name": "Yamanashi",
+          "code": "19",
+          "cities": [
+            "Kofu",
+            "Fujiyoshida",
+            "Tsuru",
+            "Yamanashi",
+            "Otsuki",
+            "Nirasaki",
+            "Minami-Alps",
+            "Hokuto",
+            "Kai",
+            "Fuefuki"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "states": [
+        {
+          "name": "New South Wales",
+          "code": "NSW",
+          "cities": [
+            "Sydney",
+            "Newcastle",
+            "Wollongong",
+            "Maitland",
+            "Albury",
+            "Wagga Wagga",
+            "Tamworth",
+            "Orange",
+            "Dubbo",
+            "Nowra"
+          ]
+        },
+        {
+          "name": "Victoria",
+          "code": "VIC",
+          "cities": [
+            "Melbourne",
+            "Geelong",
+            "Ballarat",
+            "Bendigo",
+            "Shepparton",
+            "Warrnambool",
+            "Mildura",
+            "Sale",
+            "Traralgon",
+            "Colac"
+          ]
+        },
+        {
+          "name": "Queensland",
+          "code": "QLD",
+          "cities": [
+            "Brisbane",
+            "Gold Coast",
+            "Townsville",
+            "Cairns",
+            "Toowoomba",
+            "Rockhampton",
+            "Mackay",
+            "Bundaberg",
+            "Hervey Bay",
+            "Gladstone"
+          ]
+        },
+        {
+          "name": "Western Australia",
+          "code": "WA",
+          "cities": [
+            "Perth",
+            "Fremantle",
+            "Rockingham",
+            "Mandurah",
+            "Bunbury",
+            "Geraldton",
+            "Albany",
+            "Broome",
+            "Kalgoorlie",
+            "Port Hedland"
+          ]
+        },
+        {
+          "name": "South Australia",
+          "code": "SA",
+          "cities": [
+            "Adelaide",
+            "Mount Gambier",
+            "Whyalla",
+            "Murray Bridge",
+            "Port Augusta",
+            "Port Pirie",
+            "Port Lincoln",
+            "Victor Harbor",
+            "Gawler",
+            "Kadina"
+          ]
+        },
+        {
+          "name": "Tasmania",
+          "code": "TAS",
+          "cities": [
+            "Hobart",
+            "Launceston",
+            "Devonport",
+            "Burnie",
+            "Ulverstone",
+            "George Town",
+            "Scottsdale",
+            "Queenstown",
+            "Smithton",
+            "Kingston"
+          ]
+        },
+        {
+          "name": "Australian Capital Territory",
+          "code": "ACT",
+          "cities": [
+            "Canberra",
+            "Gungahlin",
+            "Tuggeranong",
+            "Weston Creek",
+            "Belconnen",
+            "Woden Valley",
+            "Inner North",
+            "Inner South",
+            "Molonglo Valley",
+            "Jerrabomberra"
+          ]
+        },
+        {
+          "name": "Northern Territory",
+          "code": "NT",
+          "cities": [
+            "Darwin",
+            "Alice Springs",
+            "Katherine",
+            "Nhulunbuy",
+            "Tennant Creek",
+            "Palmerston",
+            "Casuarina",
+            "Humpty Doo",
+            "Howard Springs",
+            "Batchelor"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "states": [
+        {
+          "name": "Sao Paulo",
+          "code": "SP",
+          "cities": [
+            "Sao Paulo",
+            "Guarulhos",
+            "Campinas",
+            "Sao Bernardo do Campo",
+            "Santo Andre",
+            "Osasco",
+            "Ribeirao Preto",
+            "Sorocaba",
+            "Maua",
+            "Sao Jose dos Campos"
+          ]
+        },
+        {
+          "name": "Rio de Janeiro",
+          "code": "RJ",
+          "cities": [
+            "Rio de Janeiro",
+            "Sao Goncalo",
+            "Duque de Caxias",
+            "Nova Iguacu",
+            "Niteroi",
+            "Belford Roxo",
+            "Sao Joao de Meriti",
+            "Campos dos Goytacazes",
+            "Petropolis",
+            "Volta Redonda"
+          ]
+        },
+        {
+          "name": "Minas Gerais",
+          "code": "MG",
+          "cities": [
+            "Belo Horizonte",
+            "Uberlandia",
+            "Contagem",
+            "Juiz de Fora",
+            "Betim",
+            "Montes Claros",
+            "Ribeirao das Neves",
+            "Uberaba",
+            "Governador Valadares",
+            "Ipatinga"
+          ]
+        },
+        {
+          "name": "Bahia",
+          "code": "BA",
+          "cities": [
+            "Salvador",
+            "Feira de Santana",
+            "Vitoria da Conquista",
+            "Camacari",
+            "Juazeiro",
+            "Itabuna",
+            "Lauro de Freitas",
+            "Ilheus",
+            "Jequie",
+            "Teixeira de Freitas"
+          ]
+        },
+        {
+          "name": "Parana",
+          "code": "PR",
+          "cities": [
+            "Curitiba",
+            "Londrina",
+            "Maringa",
+            "Ponta Grossa",
+            "Cascavel",
+            "Sao Jose dos Pinhais",
+            "Foz do Iguacu",
+            "Colombo",
+            "Guarapuava",
+            "Paranagua"
+          ]
+        },
+        {
+          "name": "Rio Grande do Sul",
+          "code": "RS",
+          "cities": [
+            "Porto Alegre",
+            "Caxias do Sul",
+            "Pelotas",
+            "Canoas",
+            "Santa Maria",
+            "Gravatai",
+            "Viamao",
+            "Novo Hamburgo",
+            "Sao Leopoldo",
+            "Rio Grande"
+          ]
+        },
+        {
+          "name": "Pernambuco",
+          "code": "PE",
+          "cities": [
+            "Recife",
+            "Jaboatao dos Guararapes",
+            "Olinda",
+            "Caruaru",
+            "Petrolina",
+            "Paulista",
+            "Cabo de Santo Agostinho",
+            "Camaragibe",
+            "Garanhuns",
+            "Vitoria de Santo Antao"
+          ]
+        },
+        {
+          "name": "Ceara",
+          "code": "CE",
+          "cities": [
+            "Fortaleza",
+            "Caucaia",
+            "Juazeiro do Norte",
+            "Maracanau",
+            "Sobral",
+            "Crato",
+            "Itapipoca",
+            "Maranguape",
+            "Iguatu",
+            "Quixada"
+          ]
+        },
+        {
+          "name": "Para",
+          "code": "PA",
+          "cities": [
+            "Belem",
+            "Ananindeua",
+            "Santarém",
+            "Maraba",
+            "Parauapebas",
+            "Castanhal",
+            "Abaetetuba",
+            "Cameta",
+            "Marituba",
+            "Braganca"
+          ]
+        },
+        {
+          "name": "Santa Catarina",
+          "code": "SC",
+          "cities": [
+            "Florianopolis",
+            "Joinville",
+            "Blumenau",
+            "Sao Jose",
+            "Criciuma",
+            "Chapeco",
+            "Itajai",
+            "Lages",
+            "Jaragua do Sul",
+            "Palhoca"
+          ]
+        },
+        {
+          "name": "Goias",
+          "code": "GO",
+          "cities": [
+            "Goiania",
+            "Aparecida de Goiania",
+            "Anapolis",
+            "Rio Verde",
+            "Luziania",
+            "Aguas Lindas de Goias",
+            "Valparaiso de Goias",
+            "Trindade",
+            "Formosa",
+            "Novo Gama"
+          ]
+        },
+        {
+          "name": "Maranhao",
+          "code": "MA",
+          "cities": [
+            "Sao Luis",
+            "Imperatriz",
+            "Sao Jose de Ribamar",
+            "Timon",
+            "Caxias",
+            "Codó",
+            "Paço do Lumiar",
+            "Açailândia",
+            "Bacabal",
+            "Balsas"
+          ]
+        },
+        {
+          "name": "Paraiba",
+          "code": "PB",
+          "cities": [
+            "Joao Pessoa",
+            "Campina Grande",
+            "Santa Rita",
+            "Patos",
+            "Bayeux",
+            "Sousa",
+            "Cajazeiras",
+            "Guarabira",
+            "Mamanguape",
+            "Cabedelo"
+          ]
+        },
+        {
+          "name": "Espirito Santo",
+          "code": "ES",
+          "cities": [
+            "Vitoria",
+            "Vila Velha",
+            "Cariacica",
+            "Serra",
+            "Cachoeiro de Itapemirim",
+            "Linhares",
+            "Sao Mateus",
+            "Colatina",
+            "Guarapari",
+            "Aracruz"
+          ]
+        },
+        {
+          "name": "Piaui",
+          "code": "PI",
+          "cities": [
+            "Teresina",
+            "Parnaiba",
+            "Picos",
+            "Piripiri",
+            "Floriano",
+            "Campo Maior",
+            "Barras",
+            "Uniao",
+            "Altos",
+            "Pedro II"
+          ]
+        },
+        {
+          "name": "Alagoas",
+          "code": "AL",
+          "cities": [
+            "Maceio",
+            "Arapiraca",
+            "Rio Largo",
+            "Palmeira dos Indios",
+            "Uniao dos Palmares",
+            "Sao Miguel dos Campos",
+            "Penedo",
+            "Coruripe",
+            "Delmiro Gouveia",
+            "Santana do Ipanema"
+          ]
+        },
+        {
+          "name": "Tocantins",
+          "code": "TO",
+          "cities": [
+            "Palmas",
+            "Araguaina",
+            "Gurupi",
+            "Porto Nacional",
+            "Paraiso do Tocantins",
+            "Colinas do Tocantins",
+            "Guaraí",
+            "Tocantinopolis",
+            "Miracema do Tocantins",
+            "Formoso do Araguaia"
+          ]
+        },
+        {
+          "name": "Rio Grande do Norte",
+          "code": "RN",
+          "cities": [
+            "Natal",
+            "Mossoro",
+            "Parnamirim",
+            "Sao Goncalo do Amarante",
+            "Macaiba",
+            "Ceara-Mirim",
+            "Caico",
+            "Açu",
+            "Currais Novos",
+            "Nova Cruz"
+          ]
+        },
+        {
+          "name": "Acre",
+          "code": "AC",
+          "cities": [
+            "Rio Branco",
+            "Cruzeiro do Sul",
+            "Sena Madureira",
+            "Tarauaca",
+            "Feijo",
+            "Brasileia",
+            "Xapuri",
+            "Placido de Castro",
+            "Epitaciolandia",
+            "Manoel Urbano"
+          ]
+        },
+        {
+          "name": "Amapa",
+          "code": "AP",
+          "cities": [
+            "Macapa",
+            "Santana",
+            "Laranjal do Jari",
+            "Oiapoque",
+            "Porto Grande",
+            "Mazagao",
+            "Vitoria do Jari",
+            "Pedra Branca do Amapari",
+            "Tartarugalzinho",
+            "Amapa"
+          ]
+        },
+        {
+          "name": "Amazonas",
+          "code": "AM",
+          "cities": [
+            "Manaus",
+            "Parintins",
+            "Itacoatiara",
+            "Manacapuru",
+            "Coari",
+            "Tefe",
+            "Tabatinga",
+            "Maués",
+            "Sao Gabriel da Cachoeira",
+            "Humaita"
+          ]
+        },
+        {
+          "name": "Mato Grosso",
+          "code": "MT",
+          "cities": [
+            "Cuiaba",
+            "Varzea Grande",
+            "Rondonopolis",
+            "Sinop",
+            "Tangara da Serra",
+            "Caceres",
+            "Sorriso",
+            "Lucas do Rio Verde",
+            "Barra do Garcas",
+            "Primavera do Leste"
+          ]
+        },
+        {
+          "name": "Mato Grosso do Sul",
+          "code": "MS",
+          "cities": [
+            "Campo Grande",
+            "Dourados",
+            "Três Lagoas",
+            "Corumbá",
+            "Ponta Porã",
+            "Naviraí",
+            "Nova Andradina",
+            "Aquidauana",
+            "Paranaíba",
+            "Maracaju"
+          ]
+        },
+        {
+          "name": "Rondonia",
+          "code": "RO",
+          "cities": [
+            "Porto Velho",
+            "Ji-Paraná",
+            "Ariquemes",
+            "Vilhena",
+            "Cacoal",
+            "Rolim de Moura",
+            "Guajará-Mirim",
+            "Jaru",
+            "Ouro Preto do Oeste",
+            "Buritis"
+          ]
+        },
+        {
+          "name": "Roraima",
+          "code": "RR",
+          "cities": [
+            "Boa Vista",
+            "Rorainópolis",
+            "Caracaraí",
+            "Alto Alegre",
+            "Mucajaí",
+            "Bonfim",
+            "Cantá",
+            "Normandia",
+            "Pacaraima",
+            "Iracema"
+          ]
+        },
+        {
+          "name": "Sergipe",
+          "code": "SE",
+          "cities": [
+            "Aracaju",
+            "Nossa Senhora do Socorro",
+            "Lagarto",
+            "Itabaiana",
+            "Sao Cristovao",
+            "Estancia",
+            "Tobias Barreto",
+            "Simao Dias",
+            "Propria",
+            "Barra dos Coqueiros"
+          ]
+        },
+        {
+          "name": "Distrito Federal",
+          "code": "DF",
+          "cities": [
+            "Brasilia",
+            "Taguatinga",
+            "Ceilandia",
+            "Samambaia",
+            "Planaltina",
+            "Sobradinho",
+            "Gama",
+            "Santa Maria",
+            "Sao Sebastiao",
+            "Paranoa"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "states": [
+        {
+          "name": "Moscow Oblast",
+          "code": "MOS",
+          "cities": [
+            "Moscow",
+            "Podolsk",
+            "Korolyov",
+            "Mytishchi",
+            "Lyubertsy",
+            "Elektrostal",
+            "Khimki",
+            "Balashikha",
+            "Odintsovo",
+            "Krasnogorsk"
+          ]
+        },
+        {
+          "name": "Saint Petersburg",
+          "code": "SPE",
+          "cities": [
+            "Saint Petersburg",
+            "Kolpino",
+            "Pushkin",
+            "Pavlovsk",
+            "Kronstadt",
+            "Lomonosov",
+            "Peterhof",
+            "Sestroretsk",
+            "Zelenogorsk",
+            "Krasnoye Selo"
+          ]
+        },
+        {
+          "name": "Krasnodar Krai",
+          "code": "KDA",
+          "cities": [
+            "Krasnodar",
+            "Sochi",
+            "Novorossiysk",
+            "Armavir",
+            "Yeysk",
+            "Kropotkin",
+            "Tikhoretsk",
+            "Tuapse",
+            "Labinsk",
+            "Krymsk"
+          ]
+        },
+        {
+          "name": "Sverdlovsk Oblast",
+          "code": "SVE",
+          "cities": [
+            "Yekaterinburg",
+            "Nizhny Tagil",
+            "Kamensk-Uralsky",
+            "Pervouralsk",
+            "Serov",
+            "Novouralsk",
+            "Verkhnyaya Pyshma",
+            "Asbest",
+            "Polevskoy",
+            "Revda"
+          ]
+        },
+        {
+          "name": "Novosibirsk Oblast",
+          "code": "NVS",
+          "cities": [
+            "Novosibirsk",
+            "Berdsk",
+            "Iskitim",
+            "Kuibyshev",
+            "Barabinsk",
+            "Karasuk",
+            "Tatarsk",
+            "Ob",
+            "Toguchin",
+            "Cherepanovo"
+          ]
+        },
+        {
+          "name": "Nizhny Novgorod Oblast",
+          "code": "NIZ",
+          "cities": [
+            "Nizhny Novgorod",
+            "Dzerzhinsk",
+            "Arzamas",
+            "Sarov",
+            "Bor",
+            "Kstovo",
+            "Pavlovo",
+            "Vyksa",
+            "Balakhna",
+            "Zavolzhye"
+          ]
+        },
+        {
+          "name": "Samara Oblast",
+          "code": "SAM",
+          "cities": [
+            "Samara",
+            "Tolyatti",
+            "Syzran",
+            "Novokuybyshevsk",
+            "Chapayevsk",
+            "Zhigulyovsk",
+            "Otradny",
+            "Kinel",
+            "Pokhvistnevo",
+            "Bezenchuk"
+          ]
+        },
+        {
+          "name": "Omsk Oblast",
+          "code": "OMS",
+          "cities": [
+            "Omsk",
+            "Tara",
+            "Tavricheskoye",
+            "Nazyvayevsk",
+            "Kalachinsk",
+            "Iskitim",
+            "Tyukalinsk",
+            "Cherlak",
+            "Bolshie Uki",
+            "Muromtsevo"
+          ]
+        },
+        {
+          "name": "Tatarstan Republic",
+          "code": "TA",
+          "cities": [
+            "Kazan",
+            "Naberezhnye Chelny",
+            "Nizhnekamsk",
+            "Almetyevsk",
+            "Zelenodolsk",
+            "Bugulma",
+            "Yelabuga",
+            "Leninogorsk",
+            "Chistopol",
+            "Zainsk"
+          ]
+        },
+        {
+          "name": "Chelyabinsk Oblast",
+          "code": "CHE",
+          "cities": [
+            "Chelyabinsk",
+            "Magnitogorsk",
+            "Zlatoust",
+            "Miass",
+            "Kopeysk",
+            "Ozersk",
+            "Troitsk",
+            "Snezhinsk",
+            "Satka",
+            "Kartaly"
+          ]
+        },
+        {
+          "name": "Rostov Oblast",
+          "code": "ROS",
+          "cities": [
+            "Rostov-on-Don",
+            "Taganrog",
+            "Shakhty",
+            "Volgodonsk",
+            "Novocherkassk",
+            "Bataysk",
+            "Novoshakhtinsk",
+            "Kamensk-Shakhtinsky",
+            "Azov",
+            "Gukovo"
+          ]
+        },
+        {
+          "name": "Bashkortostan Republic",
+          "code": "BA",
+          "cities": [
+            "Ufa",
+            "Sterlitamak",
+            "Salavat",
+            "Neftekamsk",
+            "Oktyabrsky",
+            "Beloretsk",
+            "Ishimbay",
+            "Kumertau",
+            "Meleuz",
+            "Belebey"
+          ]
+        },
+        {
+          "name": "Krasnoyarsk Krai",
+          "code": "KYA",
+          "cities": [
+            "Krasnoyarsk",
+            "Norilsk",
+            "Achinsk",
+            "Kansk",
+            "Zheleznogorsk",
+            "Minusinsk",
+            "Lesosibirsk",
+            "Nazarovo",
+            "Sharypovo",
+            "Dudinka"
+          ]
+        },
+        {
+          "name": "Perm Krai",
+          "code": "PER",
+          "cities": [
+            "Perm",
+            "Berezniki",
+            "Solikamsk",
+            "Chaikovsky",
+            "Kungur",
+            "Lysva",
+            "Krasnokamsk",
+            "Chusovoy",
+            "Kizel",
+            "Gremyachinsk"
+          ]
+        },
+        {
+          "name": "Volgograd Oblast",
+          "code": "VGG",
+          "cities": [
+            "Volgograd",
+            "Volzhsky",
+            "Kamyshin",
+            "Mikhailovka",
+            "Uryupinsk",
+            "Kotelnikovo",
+            "Kalach-na-Donu",
+            "Krasnoslobodsk",
+            "Frolovo",
+            "Serafimovich"
+          ]
+        },
+        {
+          "name": "Voronezh Oblast",
+          "code": "VOR",
+          "cities": [
+            "Voronezh",
+            "Borisoglebsk",
+            "Rossosh",
+            "Liski",
+            "Ostrogozhsk",
+            "Novovoronezh",
+            "Boguchar",
+            "Povorino",
+            "Buturlinovka",
+            "Kalach"
+          ]
+        },
+        {
+          "name": "Saratov Oblast",
+          "code": "SAR",
+          "cities": [
+            "Saratov",
+            "Engels",
+            "Balakovo",
+            "Volsk",
+            "Balaшovo",
+            "Rтищево",
+            "Atkarsk",
+            "Krasny Kut",
+            "Petrovsk",
+            "Krasnoarmeysk"
+          ]
+        },
+        {
+          "name": "Tula Oblast",
+          "code": "TUL",
+          "cities": [
+            "Tula",
+            "Novomoskovsk",
+            "Donskoy",
+            "Aleksin",
+            "Shchyokino",
+            "Uzlovaya",
+            "Yefremov",
+            "Bogoroditsk",
+            "Kimovsk",
+            "Kireyevsk"
+          ]
+        },
+        {
+          "name": "Irkutsk Oblast",
+          "code": "IRK",
+          "cities": [
+            "Irkutsk",
+            "Bratsk",
+            "Angarsk",
+            "Ust-Ilimsk",
+            "Usolye-Sibirskoye",
+            "Cheremkhovo",
+            "Shelekhov",
+            "Ust-Kut",
+            "Tulun",
+            "Sayansk"
+          ]
+        },
+        {
+          "name": "Kemerovo Oblast",
+          "code": "KEM",
+          "cities": [
+            "Kemerovo",
+            "Novokuznetsk",
+            "Prokopyevsk",
+            "Leninsk-Kuznetsky",
+            "Kiselevsk",
+            "Mezhdurechensk",
+            "Anzhero-Sudzhensk",
+            "Belovo",
+            "Osinniki",
+            "Mariinsk"
+          ]
+        },
+        {
+          "name": "Tyumen Oblast",
+          "code": "TYU",
+          "cities": [
+            "Tyumen",
+            "Tobolsk",
+            "Ishim",
+            "Yalutorovsk",
+            "Zavodoukovsk",
+            "Aromashevo",
+            "Berdyuzhye",
+            "Golyshmanovo",
+            "Kazanskoye",
+            "Omutinskoye"
+          ]
+        },
+        {
+          "name": "Yaroslavl Oblast",
+          "code": "YAR",
+          "cities": [
+            "Yaroslavl",
+            "Rybinsk",
+            "Pereslavl-Zalessky",
+            "Tutayev",
+            "Uglich",
+            "Rostov",
+            "Gavrilov-Yam",
+            "Danilov",
+            "Myshkin",
+            "Poshekhonye"
+          ]
+        },
+        {
+          "name": "Khabarovsk Krai",
+          "code": "KHA",
+          "cities": [
+            "Khabarovsk",
+            "Komsomolsk-on-Amur",
+            "Amursk",
+            "Sovetskaya Gavan",
+            "Nikolayevsk-on-Amur",
+            "Bikin",
+            "Vyazemsky",
+            "Vanino",
+            "Chegdomyn",
+            "Solnechny"
+          ]
+        },
+        {
+          "name": "Primorsky Krai",
+          "code": "PRI",
+          "cities": [
+            "Vladivostok",
+            "Nakhodka",
+            "Ussuriysk",
+            "Artem",
+            "Arsenyev",
+            "Spassk-Dalny",
+            "Lesozavodsk",
+            "Dalnerechensk",
+            "Dalnegorsk",
+            "Partizansk"
+          ]
+        },
+        {
+          "name": "Stavropol Krai",
+          "code": "STA",
+          "cities": [
+            "Stavropol",
+            "Pyatigorsk",
+            "Kislovodsk",
+            "Nevinnomyssk",
+            "Yessentuki",
+            "Mineralnye Vody",
+            "Georgiyevsk",
+            "Budyonnovsk",
+            "Izobilny",
+            "Svetlograd"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "states": [
+        {
+          "name": "Mexico City",
+          "code": "CMX",
+          "cities": [
+            "Mexico City",
+            "Iztapalapa",
+            "Gustavo A. Madero",
+            "Alvaro Obregon",
+            "Coyoacan",
+            "Cuauhtemoc",
+            "Iztacalco",
+            "Venustiano Carranza",
+            "Azcapotzalco",
+            "Miguel Hidalgo"
+          ]
+        },
+        {
+          "name": "Jalisco",
+          "code": "JAL",
+          "cities": [
+            "Guadalajara",
+            "Zapopan",
+            "Tlaquepaque",
+            "Tonala",
+            "Puerto Vallarta",
+            "Lagos de Moreno",
+            "Ocotlan",
+            "Tepatitlan de Morelos",
+            "Tequila",
+            "Arandas"
+          ]
+        },
+        {
+          "name": "Nuevo Leon",
+          "code": "NLE",
+          "cities": [
+            "Monterrey",
+            "Guadalupe",
+            "San Nicolas de los Garza",
+            "Apodaca",
+            "Escobedo",
+            "Santa Catarina",
+            "San Pedro Garza Garcia",
+            "Cadereyta Jimenez",
+            "Salinas Victoria",
+            "Garcia"
+          ]
+        },
+        {
+          "name": "Mexico State",
+          "code": "MEX",
+          "cities": [
+            "Ecatepec",
+            "Nezahualcoyotl",
+            "Naucalpan",
+            "Tlalnepantla",
+            "Chimalhuacan",
+            "Atizapan de Zaragoza",
+            "Cuautitlan Izcalli",
+            "Tultitlan",
+            "Valle de Chalco",
+            "Ixtapaluca"
+          ]
+        },
+        {
+          "name": "Puebla",
+          "code": "PUE",
+          "cities": [
+            "Puebla",
+            "Tehuacan",
+            "San Martin Texmelucan",
+            "Atlixco",
+            "San Pedro Cholula",
+            "San Andres Cholula",
+            "Huejotzingo",
+            "Zacatlan",
+            "Cholula",
+            "Amozoc"
+          ]
+        },
+        {
+          "name": "Guanajuato",
+          "code": "GUA",
+          "cities": [
+            "Leon",
+            "Irapuato",
+            "Celaya",
+            "Salamanca",
+            "Guanajuato",
+            "San Miguel de Allende",
+            "Dolores Hidalgo",
+            "Silao",
+            "Valle de Santiago",
+            "Acambaro"
+          ]
+        },
+        {
+          "name": "Veracruz",
+          "code": "VER",
+          "cities": [
+            "Veracruz",
+            "Xalapa",
+            "Coatzacoalcos",
+            "Cordoba",
+            "Poza Rica",
+            "Minatitlan",
+            "Orizaba",
+            "Tuxpan",
+            "Papantla",
+            "Coatzintla"
+          ]
+        },
+        {
+          "name": "Chihuahua",
+          "code": "CHH",
+          "cities": [
+            "Chihuahua",
+            "Ciudad Juarez",
+            "Delicias",
+            "Parral",
+            "Cuauhtemoc",
+            "Camargo",
+            "Jimenez",
+            "Casas Grandes",
+            "Nuevo Casas Grandes",
+            "Aldama"
+          ]
+        },
+        {
+          "name": "Michoacan",
+          "code": "MIC",
+          "cities": [
+            "Morelia",
+            "Uruapan",
+            "Zamora",
+            "Lazaro Cardenas",
+            "Apatzingan",
+            "Patzcuaro",
+            "Zitacuaro",
+            "Hidalgo",
+            "La Piedad",
+            "Sahuayo"
+          ]
+        },
+        {
+          "name": "Oaxaca",
+          "code": "OAX",
+          "cities": [
+            "Oaxaca",
+            "Salina Cruz",
+            "Juchitan de Zaragoza",
+            "Tuxtepec",
+            "Tehuantepec",
+            "Puerto Escondido",
+            "Huatulco",
+            "San Juan Bautista Tuxtepec",
+            "Santo Domingo Tehuantepec",
+            "Matias Romero"
+          ]
+        },
+        {
+          "name": "Chiapas",
+          "code": "CHP",
+          "cities": [
+            "Tuxtla Gutierrez",
+            "Tapachula",
+            "San Cristobal de las Casas",
+            "Palenque",
+            "Comitan",
+            "Tonala",
+            "Villahermosa",
+            "Ocosingo",
+            "Chiapa de Corzo",
+            "Arriaga"
+          ]
+        },
+        {
+          "name": "Sonora",
+          "code": "SON",
+          "cities": [
+            "Hermosillo",
+            "Ciudad Obregon",
+            "Nogales",
+            "San Luis Rio Colorado",
+            "Navojoa",
+            "Guaymas",
+            "Caborca",
+            "Agua Prieta",
+            "Puerto Penasco",
+            "Empalme"
+          ]
+        },
+        {
+          "name": "Coahuila",
+          "code": "COA",
+          "cities": [
+            "Saltillo",
+            "Torreon",
+            "Monclova",
+            "Piedras Negras",
+            "Acuna",
+            "Sabinas",
+            "San Pedro",
+            "Ramos Arizpe",
+            "Nava",
+            "Frontera"
+          ]
+        },
+        {
+          "name": "Tamaulipas",
+          "code": "TAM",
+          "cities": [
+            "Tampico",
+            "Reynosa",
+            "Matamoros",
+            "Nuevo Laredo",
+            "Ciudad Victoria",
+            "Altamira",
+            "Rio Bravo",
+            "El Mante",
+            "Valle Hermoso",
+            "San Fernando"
+          ]
+        },
+        {
+          "name": "Durango",
+          "code": "DUR",
+          "cities": [
+            "Durango",
+            "Gomez Palacio",
+            "Lerdo",
+            "Victoria de Durango",
+            "Canatlan",
+            "Nazas",
+            "Nombre de Dios",
+            "Mapimi",
+            "El Salto",
+            "Guadalupe Victoria"
+          ]
+        },
+        {
+          "name": "Sinaloa",
+          "code": "SIN",
+          "cities": [
+            "Culiacan",
+            "Mazatlan",
+            "Los Mochis",
+            "Guasave",
+            "Navolato",
+            "Escuinapa",
+            "El Fuerte",
+            "Sinaloa de Leyva",
+            "Ahome",
+            "Angostura"
+          ]
+        },
+        {
+          "name": "Zacatecas",
+          "code": "ZAC",
+          "cities": [
+            "Zacatecas",
+            "Fresnillo",
+            "Guadalupe",
+            "Jerez",
+            "Calera",
+            "Sombrerete",
+            "Villa de Cos",
+            "Loreto",
+            "Villa Garcia",
+            "Pinos"
+          ]
+        },
+        {
+          "name": "Aguascalientes",
+          "code": "AGU",
+          "cities": [
+            "Aguascalientes",
+            "Jesus Maria",
+            "Calvillo",
+            "Rincon de Romos",
+            "Pabellon de Arteaga",
+            "Asientos",
+            "Tepezala",
+            "San Francisco de los Romo",
+            "El Llano",
+            "Cosio"
+          ]
+        },
+        {
+          "name": "Tlaxcala",
+          "code": "TLA",
+          "cities": [
+            "Tlaxcala",
+            "Apizaco",
+            "Huamantla",
+            "San Pablo del Monte",
+            "Chiautempan",
+            "Calpulalpan",
+            "Tlaxco",
+            "Nanacamilpa",
+            "Contla",
+            "Tepetitla"
+          ]
+        },
+        {
+          "name": "Queretaro",
+          "code": "QUE",
+          "cities": [
+            "Queretaro",
+            "San Juan del Rio",
+            "Corregidora",
+            "El Marques",
+            "Pedro Escobedo",
+            "Tequisquiapan",
+            "Ezequiel Montes",
+            "Cadereyta",
+            "Colon",
+            "Amealco"
+          ]
+        },
+        {
+          "name": "Hidalgo",
+          "code": "HID",
+          "cities": [
+            "Pachuca",
+            "Tulancingo",
+            "Tizayuca",
+            "Tepeji del Rio",
+            "Ixmiquilpan",
+            "Actopan",
+            "Mineral del Monte",
+            "Apan",
+            "Mixquiahuala",
+            "Progreso"
+          ]
+        },
+        {
+          "name": "Morelos",
+          "code": "MOR",
+          "cities": [
+            "Cuernavaca",
+            "Jiutepec",
+            "Temixco",
+            "Cuautla",
+            "Yautepec",
+            "Galeana",
+            "Jojutla",
+            "Puente de Ixtla",
+            "Tepoztlan",
+            "Tlaltizapan"
+          ]
+        },
+        {
+          "name": "Colima",
+          "code": "COL",
+          "cities": [
+            "Colima",
+            "Manzanillo",
+            "Tecoman",
+            "Villa de Alvarez",
+            "Armeria",
+            "Coquimatlan",
+            "Comala",
+            "Cuauhtemoc",
+            "Ixtlahuacan",
+            "Minatitlan"
+          ]
+        },
+        {
+          "name": "Campeche",
+          "code": "CAM",
+          "cities": [
+            "Campeche",
+            "Ciudad del Carmen",
+            "Champoton",
+            "Escarcega",
+            "Calkini",
+            "Hecelchakan",
+            "Hopelchen",
+            "Palizada",
+            "Tenabo",
+            "Calakmul"
+          ]
+        },
+        {
+          "name": "Quintana Roo",
+          "code": "ROO",
+          "cities": [
+            "Cancun",
+            "Playa del Carmen",
+            "Chetumal",
+            "Cozumel",
+            "Felipe Carrillo Puerto",
+            "Tulum",
+            "Isla Mujeres",
+            "Bacalar",
+            "Puerto Morelos",
+            "Kantunilkin"
+          ]
+        },
+        {
+          "name": "Yucatan",
+          "code": "YUC",
+          "cities": [
+            "Merida",
+            "Valladolid",
+            "Motul",
+            "Tizimin",
+            "Progreso",
+            "Tekax",
+            "Oxkutzcab",
+            "Peto",
+            "Hunucma",
+            "Uman"
+          ]
+        },
+        {
+          "name": "Tabasco",
+          "code": "TAB",
+          "cities": [
+            "Villahermosa",
+            "Cardenas",
+            "Comalcalco",
+            "Macuspana",
+            "Paraiso",
+            "Teapa",
+            "Cunduacan",
+            "Nacajuca",
+            "Centro",
+            "Jalpa de Mendez"
+          ]
+        },
+        {
+          "name": "Nayarit",
+          "code": "NAY",
+          "cities": [
+            "Tepic",
+            "Ixtlan del Rio",
+            "Santiago Ixcuintla",
+            "Compostela",
+            "San Blas",
+            "Xalisco",
+            "Acaponeta",
+            "Tecuala",
+            "Del Nayar",
+            "Rosamorada"
+          ]
+        },
+        {
+          "name": "Baja California",
+          "code": "BCN",
+          "cities": [
+            "Tijuana",
+            "Mexicali",
+            "Ensenada",
+            "Rosarito",
+            "Tecate",
+            "San Felipe",
+            "San Quintin",
+            "Guadalupe Victoria",
+            "El Sauzal",
+            "Maneadero"
+          ]
+        },
+        {
+          "name": "Baja California Sur",
+          "code": "BCS",
+          "cities": [
+            "La Paz",
+            "Cabo San Lucas",
+            "San Jose del Cabo",
+            "Loreto",
+            "Santa Rosalia",
+            "Mulege",
+            "Todos Santos",
+            "Comondu",
+            "Los Cabos",
+            "La Ribera"
+          ]
+        },
+        {
+          "name": "Guerrero",
+          "code": "GRO",
+          "cities": [
+            "Acapulco",
+            "Chilpancingo",
+            "Iguala",
+            "Taxco",
+            "Zihuatanejo",
+            "Coyuca de Benitez",
+            "Chilapa",
+            "Tlapa",
+            "Ometepec",
+            "Tecpan de Galeana"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "states": [
+        {
+          "name": "Gauteng",
+          "code": "GP",
+          "cities": [
+            "Johannesburg",
+            "Pretoria",
+            "Soweto",
+            "Tembisa",
+            "Benoni",
+            "Vereeniging",
+            "Kempton Park",
+            "Boksburg",
+            "Germiston",
+            "Roodepoort"
+          ]
+        },
+        {
+          "name": "Western Cape",
+          "code": "WC",
+          "cities": [
+            "Cape Town",
+            "Paarl",
+            "George",
+            "Oudtshoorn",
+            "Worcester",
+            "Stellenbosch",
+            "Saldanha",
+            "Knysna",
+            "Mossel Bay",
+            "Hermanus"
+          ]
+        },
+        {
+          "name": "KwaZulu-Natal",
+          "code": "KZN",
+          "cities": [
+            "Durban",
+            "Pietermaritzburg",
+            "Newcastle",
+            "Pinetown",
+            "Umlazi",
+            "Chatsworth",
+            "Phoenix",
+            "Verulam",
+            "Amanzimtoti",
+            "Kloof"
+          ]
+        },
+        {
+          "name": "Eastern Cape",
+          "code": "EC",
+          "cities": [
+            "Port Elizabeth",
+            "East London",
+            "Uitenhage",
+            "King Williams Town",
+            "Queenstown",
+            "Grahamstown",
+            "Jeffreys Bay",
+            "Port Alfred",
+            "Butterworth",
+            "Mthatha"
+          ]
+        },
+        {
+          "name": "Free State",
+          "code": "FS",
+          "cities": [
+            "Bloemfontein",
+            "Welkom",
+            "Kroonstad",
+            "Bethlehem",
+            "Sasolburg",
+            "Virginia",
+            "Phuthaditjhaba",
+            "Harrismith",
+            "Odendaalsrus",
+            "Bothaville"
+          ]
+        },
+        {
+          "name": "Limpopo",
+          "code": "LP",
+          "cities": [
+            "Polokwane",
+            "Tzaneen",
+            "Mokopane",
+            "Lephalale",
+            "Musina",
+            "Thohoyandou",
+            "Giyani",
+            "Makhado",
+            "Bela-Bela",
+            "Modimolle"
+          ]
+        },
+        {
+          "name": "Mpumalanga",
+          "code": "MP",
+          "cities": [
+            "Nelspruit",
+            "Witbank",
+            "Secunda",
+            "Middelburg",
+            "Standerton",
+            "Bethal",
+            "Ermelo",
+            "Komatipoort",
+            "Sabie",
+            "Hazyview"
+          ]
+        },
+        {
+          "name": "Northern Cape",
+          "code": "NC",
+          "cities": [
+            "Kimberley",
+            "Upington",
+            "Kuruman",
+            "Springbok",
+            "De Aar",
+            "Colesberg",
+            "Calvinia",
+            "Sutherland",
+            "Port Nolloth",
+            "Alexander Bay"
+          ]
+        },
+        {
+          "name": "North West",
+          "code": "NW",
+          "cities": [
+            "Mahikeng",
+            "Klerksdorp",
+            "Potchefstroom",
+            "Rustenburg",
+            "Brits",
+            "Lichtenburg",
+            "Vryburg",
+            "Koster",
+            "Sannieshof",
+            "Ottosdal"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "states": [
+        {
+          "name": "Lagos",
+          "code": "LA",
+          "cities": [
+            "Lagos",
+            "Ikeja",
+            "Victoria Island",
+            "Ikoyi",
+            "Surulere",
+            "Yaba",
+            "Mushin",
+            "Oshodi",
+            "Agege",
+            "Alaba"
+          ]
+        },
+        {
+          "name": "Kano",
+          "code": "KN",
+          "cities": [
+            "Kano",
+            "Fagge",
+            "Dala",
+            "Gwale",
+            "Tarauni",
+            "Nassarawa",
+            "Kumbotso",
+            "Ungogo",
+            "Dawakin Tofa",
+            "Tofa"
+          ]
+        },
+        {
+          "name": "Rivers",
+          "code": "RI",
+          "cities": [
+            "Port Harcourt",
+            "Obio-Akpor",
+            "Okrika",
+            "Ogu-Bolo",
+            "Eleme",
+            "Tai",
+            "Gokana",
+            "Khana",
+            "Oyigbo",
+            "Opobo-Nkoro"
+          ]
+        },
+        {
+          "name": "Federal Capital Territory",
+          "code": "FC",
+          "cities": [
+            "Abuja",
+            "Gwagwalada",
+            "Kuje",
+            "Bwari",
+            "Kwali",
+            "Abaji",
+            "Garki",
+            "Wuse",
+            "Maitama",
+            "Asokoro"
+          ]
+        },
+        {
+          "name": "Kaduna",
+          "code": "KD",
+          "cities": [
+            "Kaduna",
+            "Zaria",
+            "Kafanchan",
+            "Kagoro",
+            "Kachia",
+            "Ikara",
+            "Makarfi",
+            "Soba",
+            "Giwa",
+            "Sabon Gari"
+          ]
+        },
+        {
+          "name": "Oyo",
+          "code": "OY",
+          "cities": [
+            "Ibadan",
+            "Ogbomoso",
+            "Oyo",
+            "Iseyin",
+            "Kishi",
+            "Saki",
+            "Igboho",
+            "Eruwa",
+            "Lanlate",
+            "Awe"
+          ]
+        },
+        {
+          "name": "Edo",
+          "code": "ED",
+          "cities": [
+            "Benin City",
+            "Auchi",
+            "Ekpoma",
+            "Uromi",
+            "Abudu",
+            "Ehor",
+            "Igueben",
+            "Ologbo",
+            "Ubiaja",
+            "Owan"
+          ]
+        },
+        {
+          "name": "Delta",
+          "code": "DE",
+          "cities": [
+            "Asaba",
+            "Warri",
+            "Sapele",
+            "Ughelli",
+            "Agbor",
+            "Oghara",
+            "Koko",
+            "Burutu",
+            "Patani",
+            "Bomadi"
+          ]
+        },
+        {
+          "name": "Ogun",
+          "code": "OG",
+          "cities": [
+            "Abeokuta",
+            "Ijebu Ode",
+            "Sagamu",
+            "Ilaro",
+            "Ota",
+            "Ifo",
+            "Ijebu Igbo",
+            "Shagamu",
+            "Owode",
+            "Ipokia"
+          ]
+        },
+        {
+          "name": "Enugu",
+          "code": "EN",
+          "cities": [
+            "Enugu",
+            "Nsukka",
+            "Oji River",
+            "Udi",
+            "Ezeagu",
+            "Igbo Etiti",
+            "Nkanu East",
+            "Nkanu West",
+            "Isi Uzo",
+            "Aninri"
+          ]
+        },
+        {
+          "name": "Plateau",
+          "code": "PL",
+          "cities": [
+            "Jos",
+            "Bukuru",
+            "Barkin Ladi",
+            "Bassa",
+            "Bokkos",
+            "Kanam",
+            "Kanke",
+            "Langtang North",
+            "Langtang South",
+            "Mangu"
+          ]
+        },
+        {
+          "name": "Sokoto",
+          "code": "SO",
+          "cities": [
+            "Sokoto",
+            "Binji",
+            "Bodinga",
+            "Dange Shuni",
+            "Gada",
+            "Goronyo",
+            "Gudu",
+            "Gwadabawa",
+            "Illela",
+            "Isa"
+          ]
+        },
+        {
+          "name": "Katsina",
+          "code": "KT",
+          "cities": [
+            "Katsina",
+            "Dutsin Ma",
+            "Kankara",
+            "Malumfashi",
+            "Mani",
+            "Mashi",
+            "Matazu",
+            "Musawa",
+            "Rimi",
+            "Sabuwa"
+          ]
+        },
+        {
+          "name": "Bauchi",
+          "code": "BA",
+          "cities": [
+            "Bauchi",
+            "Azare",
+            "Jama'are",
+            "Katagum",
+            "Misau",
+            "Ningi",
+            "Shira",
+            "Tafawa Balewa",
+            "Itas/Gadau",
+            "Toro"
+          ]
+        },
+        {
+          "name": "Benue",
+          "code": "BE",
+          "cities": [
+            "Makurdi",
+            "Gboko",
+            "Katsina-Ala",
+            "Konshisha",
+            "Kwande",
+            "Logo",
+            "Obi",
+            "Ogbadibo",
+            "Ohimini",
+            "Oju"
+          ]
+        },
+        {
+          "name": "Borno",
+          "code": "BO",
+          "cities": [
+            "Maiduguri",
+            "Biu",
+            "Chibok",
+            "Damboa",
+            "Dikwa",
+            "Gubio",
+            "Guzamala",
+            "Gwoza",
+            "Hawul",
+            "Jere"
+          ]
+        },
+        {
+          "name": "Imo",
+          "code": "IM",
+          "cities": [
+            "Owerri",
+            "Orlu",
+            "Okigwe",
+            "Aboh Mbaise",
+            "Ahiazu Mbaise",
+            "Ehime Mbano",
+            "Ezinihitte",
+            "Ideato North",
+            "Ideato South",
+            "Ihitte/Uboma"
+          ]
+        },
+        {
+          "name": "Akwa Ibom",
+          "code": "AK",
+          "cities": [
+            "Uyo",
+            "Ikot Ekpene",
+            "Eket",
+            "Abak",
+            "Eastern Obolo",
+            "Eket",
+            "Esit Eket",
+            "Essien Udim",
+            "Etim Ekpo",
+            "Etinan"
+          ]
+        },
+        {
+          "name": "Cross River",
+          "code": "CR",
+          "cities": [
+            "Calabar",
+            "Ikom",
+            "Ogoja",
+            "Abi",
+            "Akamkpa",
+            "Akpabuyo",
+            "Bakassi",
+            "Bekwarra",
+            "Biase",
+            "Boki"
+          ]
+        },
+        {
+          "name": "Anambra",
+          "code": "AN",
+          "cities": [
+            "Awka",
+            "Onitsha",
+            "Nnewi",
+            "Aguata",
+            "Anambra East",
+            "Anambra West",
+            "Anaocha",
+            "Ayamelum",
+            "Dunukofia",
+            "Ekwusigo"
+          ]
+        },
+        {
+          "name": "Abia",
+          "code": "AB",
+          "cities": [
+            "Umuahia",
+            "Aba",
+            "Arochukwu",
+            "Bende",
+            "Ikwuano",
+            "Isiala Ngwa North",
+            "Isiala Ngwa South",
+            "Isuikwuato",
+            "Obi Ngwa",
+            "Ohafia"
+          ]
+        },
+        {
+          "name": "Adamawa",
+          "code": "AD",
+          "cities": [
+            "Yola",
+            "Mubi",
+            "Ganye",
+            "Girei",
+            "Gombi",
+            "Guyuk",
+            "Hong",
+            "Jada",
+            "Lamurde",
+            "Madagali"
+          ]
+        },
+        {
+          "name": "Ebonyi",
+          "code": "EB",
+          "cities": [
+            "Abakaliki",
+            "Afikpo",
+            "Afikpo North",
+            "Afikpo South",
+            "Ebonyi",
+            "Ezza North",
+            "Ezza South",
+            "Ikwo",
+            "Ishielu",
+            "Ivo"
+          ]
+        },
+        {
+          "name": "Ekiti",
+          "code": "EK",
+          "cities": [
+            "Ado Ekiti",
+            "Ikere",
+            "Oye",
+            "Aiyekire",
+            "Efon",
+            "Ekiti East",
+            "Ekiti South West",
+            "Ekiti West",
+            "Emure",
+            "Ido Osi"
+          ]
+        },
+        {
+          "name": "Gombe",
+          "code": "GO",
+          "cities": [
+            "Gombe",
+            "Akko",
+            "Balanga",
+            "Billiri",
+            "Dukku",
+            "Funakaye",
+            "Kwami",
+            "Nafada",
+            "Shongom",
+            "Yamaltu/Deba"
+          ]
+        },
+        {
+          "name": "Jigawa",
+          "code": "JI",
+          "cities": [
+            "Dutse",
+            "Hadejia",
+            "Kazaure",
+            "Auyo",
+            "Babura",
+            "Biriniwa",
+            "Birnin Kudu",
+            "Buji",
+            "Garki",
+            "Gumel"
+          ]
+        },
+        {
+          "name": "Kebbi",
+          "code": "KE",
+          "cities": [
+            "Birnin Kebbi",
+            "Aleiro",
+            "Arewa Dandi",
+            "Argungu",
+            "Augie",
+            "Bagudo",
+            "Bunza",
+            "Dandi",
+            "Fakai",
+            "Gwandu"
+          ]
+        },
+        {
+          "name": "Kwara",
+          "code": "KW",
+          "cities": [
+            "Ilorin",
+            "Offa",
+            "Omu-Aran",
+            "Asa",
+            "Baruten",
+            "Edu",
+            "Ekiti",
+            "Ifelodun",
+            "Irepodun",
+            "Isin"
+          ]
+        },
+        {
+          "name": "Nasarawa",
+          "code": "NA",
+          "cities": [
+            "Lafia",
+            "Akwanga",
+            "Keffi",
+            "Akwanga",
+            "Awe",
+            "Doma",
+            "Karu",
+            "Keana",
+            "Kokona",
+            "Nasarawa"
+          ]
+        },
+        {
+          "name": "Niger",
+          "code": "NI",
+          "cities": [
+            "Minna",
+            "Bida",
+            "Kontagora",
+            "Agaie",
+            "Agwara",
+            "Bida",
+            "Borgu",
+            "Bosso",
+            "Chanchaga",
+            "Edati"
+          ]
+        },
+        {
+          "name": "Ondo",
+          "code": "ON",
+          "cities": [
+            "Akure",
+            "Ondo",
+            "Owo",
+            "Akoko North East",
+            "Akoko North West",
+            "Akoko South East",
+            "Akoko South West",
+            "Akure North",
+            "Akure South",
+            "Ese Odo"
+          ]
+        },
+        {
+          "name": "Osun",
+          "code": "OS",
+          "cities": [
+            "Osogbo",
+            "Ilesa",
+            "Ile-Ife",
+            "Atakunmosa East",
+            "Atakunmosa West",
+            "Aiyedaade",
+            "Aiyedire",
+            "Boluwaduro",
+            "Boripe",
+            "Ede North"
+          ]
+        },
+        {
+          "name": "Taraba",
+          "code": "TA",
+          "cities": [
+            "Jalingo",
+            "Bali",
+            "Donga",
+            "Gashaka",
+            "Gassol",
+            "Ibi",
+            "Karim Lamido",
+            "Kurmi",
+            "Lau",
+            "Sardauna"
+          ]
+        },
+        {
+          "name": "Yobe",
+          "code": "YO",
+          "cities": [
+            "Damaturu",
+            "Bade",
+            "Bursari",
+            "Geidam",
+            "Gujba",
+            "Gulani",
+            "Fika",
+            "Fune",
+            "Jakusko",
+            "Karasuwa"
+          ]
+        },
+        {
+          "name": "Zamfara",
+          "code": "ZA",
+          "cities": [
+            "Gusau",
+            "Anka",
+            "Bakura",
+            "Birnin Magaji/Kiyaw",
+            "Bukkuyum",
+            "Bungudu",
+            "Chafe",
+            "Gummi",
+            "Kankara",
+            "Maradun"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "states": [
+        {
+          "name": "Buenos Aires",
+          "code": "B",
+          "cities": [
+            "Buenos Aires",
+            "La Plata",
+            "Mar del Plata",
+            "Quilmes",
+            "Banfield",
+            "Merlo",
+            "Florencio Varela",
+            "Avellaneda",
+            "Lanus",
+            "General San Martin"
+          ]
+        },
+        {
+          "name": "Cordoba",
+          "code": "X",
+          "cities": [
+            "Cordoba",
+            "Villa Maria",
+            "San Francisco",
+            "Rio Cuarto",
+            "Villa Carlos Paz",
+            "Jesus Maria",
+            "Cosquin",
+            "La Falda",
+            "Villa General Belgrano",
+            "Unquillo"
+          ]
+        },
+        {
+          "name": "Santa Fe",
+          "code": "S",
+          "cities": [
+            "Rosario",
+            "Santa Fe",
+            "Rafaela",
+            "Villa Gobernador Galvez",
+            "Venado Tuerto",
+            "Reconquista",
+            "Santo Tome",
+            "San Lorenzo",
+            "Perez",
+            "Granadero Baigorria"
+          ]
+        },
+        {
+          "name": "Autonomous City of Buenos Aires",
+          "code": "C",
+          "cities": [
+            "Buenos Aires",
+            "Palermo",
+            "Recoleta",
+            "San Telmo",
+            "La Boca",
+            "Puerto Madero",
+            "Belgrano",
+            "Caballito",
+            "Flores",
+            "Villa Crespo"
+          ]
+        },
+        {
+          "name": "Mendoza",
+          "code": "M",
+          "cities": [
+            "Mendoza",
+            "San Rafael",
+            "Godoy Cruz",
+            "Las Heras",
+            "Lujan de Cuyo",
+            "Maipu",
+            "Tunuyan",
+            "San Martin",
+            "Rivadavia",
+            "Guaymallen"
+          ]
+        },
+        {
+          "name": "Tucuman",
+          "code": "T",
+          "cities": [
+            "San Miguel de Tucuman",
+            "Yerba Buena",
+            "Tafi Viejo",
+            "Banda del Rio Sali",
+            "Aguilares",
+            "Concepcion",
+            "Famailla",
+            "Lules",
+            "Monteros",
+            "Simoca"
+          ]
+        },
+        {
+          "name": "Entre Rios",
+          "code": "E",
+          "cities": [
+            "Parana",
+            "Concordia",
+            "Gualeguaychu",
+            "Colon",
+            "Villa Maria",
+            "Concepcion del Uruguay",
+            "Gualeguay",
+            "La Paz",
+            "Federacion",
+            "Victoria"
+          ]
+        },
+        {
+          "name": "Salta",
+          "code": "A",
+          "cities": [
+            "Salta",
+            "San Ramon de la Nueva Oran",
+            "Tartagal",
+            "General Guemes",
+            "Metan",
+            "Rosario de Lerma",
+            "Cafayate",
+            "Cerrillos",
+            "La Caldera",
+            "Vaqueros"
+          ]
+        },
+        {
+          "name": "Misiones",
+          "code": "N",
+          "cities": [
+            "Posadas",
+            "Oberá",
+            "Eldorado",
+            "San Vicente",
+            "Puerto Iguazu",
+            "Apostoles",
+            "Leandro N. Alem",
+            "Concepcion de la Sierra",
+            "San Pedro",
+            "Bernardo de Irigoyen"
+          ]
+        },
+        {
+          "name": "Chaco",
+          "code": "H",
+          "cities": [
+            "Resistencia",
+            "Barranqueras",
+            "Villa Angela",
+            "Presidencia Roque Saenz Pena",
+            "Charata",
+            "General San Martin",
+            "Machagai",
+            "Quitilipi",
+            "Las Breñas",
+            "Tres Isletas"
+          ]
+        },
+        {
+          "name": "Corrientes",
+          "code": "W",
+          "cities": [
+            "Corrientes",
+            "Goya",
+            "Mercedes",
+            "Paso de los Libres",
+            "Curuzu Cuatia",
+            "Monte Caseros",
+            "Bella Vista",
+            "Santo Tome",
+            "Empedrado",
+            "San Luis del Palmar"
+          ]
+        },
+        {
+          "name": "Santiago del Estero",
+          "code": "G",
+          "cities": [
+            "Santiago del Estero",
+            "La Banda",
+            "Añatuya",
+            "Frias",
+            "Termas de Rio Hondo",
+            "Suncho Corral",
+            "Quimili",
+            "Loreto",
+            "Villa Ojo de Agua",
+            "Selva"
+          ]
+        },
+        {
+          "name": "San Juan",
+          "code": "J",
+          "cities": [
+            "San Juan",
+            "Rawson",
+            "Rivadavia",
+            "Chimbas",
+            "Santa Lucia",
+            "Pocito",
+            "Caucete",
+            "San Martin",
+            "Albardon",
+            "Angaco"
+          ]
+        },
+        {
+          "name": "Jujuy",
+          "code": "Y",
+          "cities": [
+            "San Salvador de Jujuy",
+            "Palpala",
+            "San Pedro de Jujuy",
+            "La Quiaca",
+            "Humahuaca",
+            "Perico",
+            "Libertador General San Martin",
+            "Tilcara",
+            "El Carmen",
+            "Maimara"
+          ]
+        },
+        {
+          "name": "Rio Negro",
+          "code": "R",
+          "cities": [
+            "Viedma",
+            "General Roca",
+            "Cipolletti",
+            "Bariloche",
+            "Allen",
+            "Cinco Saltos",
+            "Villa Regina",
+            "Choele Choel",
+            "Luis Beltran",
+            "Ingeniero Jacobacci"
+          ]
+        },
+        {
+          "name": "Formosa",
+          "code": "P",
+          "cities": [
+            "Formosa",
+            "Clorinda",
+            "Pirané",
+            "Las Lomitas",
+            "Ingeniero Juarez",
+            "Comandante Fontana",
+            "Laguna Blanca",
+            "El Colorado",
+            "Riacho He He",
+            "Villa General Guemes"
+          ]
+        },
+        {
+          "name": "Neuquen",
+          "code": "Q",
+          "cities": [
+            "Neuquen",
+            "Cutral Co",
+            "Plottier",
+            "Centenario",
+            "San Martin de los Andes",
+            "Zapala",
+            "Rincon de los Sauces",
+            "Chos Malal",
+            "Villa La Angostura",
+            "Junin de los Andes"
+          ]
+        },
+        {
+          "name": "Chubut",
+          "code": "U",
+          "cities": [
+            "Rawson",
+            "Comodoro Rivadavia",
+            "Trelew",
+            "Puerto Madryn",
+            "Esquel",
+            "Sarmiento",
+            "Gaiman",
+            "Dolavon",
+            "28 de Julio",
+            "El Maiten"
+          ]
+        },
+        {
+          "name": "San Luis",
+          "code": "D",
+          "cities": [
+            "San Luis",
+            "Villa Mercedes",
+            "Merlo",
+            "La Punta",
+            "Juana Koslay",
+            "Concarán",
+            "Justo Daract",
+            "Nueva Galia",
+            "Unión",
+            "San Francisco del Monte de Oro"
+          ]
+        },
+        {
+          "name": "Catamarca",
+          "code": "K",
+          "cities": [
+            "San Fernando del Valle de Catamarca",
+            "Valle Viejo",
+            "Fray Mamerto Esquiu",
+            "Capayan",
+            "Andalgala",
+            "Tinogasta",
+            "Belén",
+            "Santa Maria",
+            "Pomán",
+            "Ambato"
+          ]
+        },
+        {
+          "name": "La Rioja",
+          "code": "F",
+          "cities": [
+            "La Rioja",
+            "Chilecito",
+            "Arauco",
+            "Castro Barros",
+            "Chamical",
+            "Famatina",
+            "General Lamadrid",
+            "General Ocampo",
+            "General San Martin",
+            "Independencia"
+          ]
+        },
+        {
+          "name": "La Pampa",
+          "code": "L",
+          "cities": [
+            "Santa Rosa",
+            "General Pico",
+            "Realico",
+            "Toay",
+            "Macachin",
+            "General Acha",
+            "Guatrache",
+            "Victorica",
+            "Trenel",
+            "Quemu Quemu"
+          ]
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "Z",
+          "cities": [
+            "Rio Gallegos",
+            "Calafate",
+            "Rio Turbio",
+            "Puerto Deseado",
+            "Puerto San Julian",
+            "Comandante Luis Piedra Buena",
+            "El Calafate",
+            "Perito Moreno",
+            "Los Antiguos",
+            "Gobernador Gregores"
+          ]
+        },
+        {
+          "name": "Tierra del Fuego",
+          "code": "V",
+          "cities": [
+            "Ushuaia",
+            "Rio Grande",
+            "Tolhuin",
+            "Puerto Almanza",
+            "Puerto Williams",
+            "Lago Escondido",
+            "Lago Fagnano",
+            "Estancia Harberton",
+            "Puerto Argentino",
+            "Cabo San Pablo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "states": [
+        {
+          "name": "Lombardy",
+          "code": "25",
+          "cities": [
+            "Milan",
+            "Brescia",
+            "Monza",
+            "Bergamo",
+            "Como",
+            "Varese",
+            "Pavia",
+            "Cremona",
+            "Mantua",
+            "Lecco"
+          ]
+        },
+        {
+          "name": "Lazio",
+          "code": "62",
+          "cities": [
+            "Rome",
+            "Latina",
+            "Guidonia Montecelio",
+            "Fiumicino",
+            "Aprilia",
+            "Viterbo",
+            "Tivoli",
+            "Anzio",
+            "Velletri",
+            "Civitavecchia"
+          ]
+        },
+        {
+          "name": "Campania",
+          "code": "72",
+          "cities": [
+            "Naples",
+            "Salerno",
+            "Giugliano in Campania",
+            "Torre del Greco",
+            "Pozzuoli",
+            "Casoria",
+            "Castellammare di Stabia",
+            "Afragola",
+            "Marano di Napoli",
+            "Portici"
+          ]
+        },
+        {
+          "name": "Sicily",
+          "code": "82",
+          "cities": [
+            "Palermo",
+            "Catania",
+            "Messina",
+            "Syracuse",
+            "Marsala",
+            "Gela",
+            "Ragusa",
+            "Trapani",
+            "Vittoria",
+            "Caltanissetta"
+          ]
+        },
+        {
+          "name": "Veneto",
+          "code": "34",
+          "cities": [
+            "Venice",
+            "Verona",
+            "Padua",
+            "Vicenza",
+            "Treviso",
+            "Rovigo",
+            "Belluno",
+            "Chioggia",
+            "Bassano del Grappa",
+            "Mestre"
+          ]
+        },
+        {
+          "name": "Emilia-Romagna",
+          "code": "45",
+          "cities": [
+            "Bologna",
+            "Modena",
+            "Parma",
+            "Reggio Emilia",
+            "Ravenna",
+            "Rimini",
+            "Ferrara",
+            "Forli",
+            "Piacenza",
+            "Cesena"
+          ]
+        },
+        {
+          "name": "Piedmont",
+          "code": "21",
+          "cities": [
+            "Turin",
+            "Novara",
+            "Alessandria",
+            "Asti",
+            "Cuneo",
+            "Biella",
+            "Verbania",
+            "Vercelli",
+            "Ivrea",
+            "Settimo Torinese"
+          ]
+        },
+        {
+          "name": "Puglia",
+          "code": "75",
+          "cities": [
+            "Bari",
+            "Taranto",
+            "Foggia",
+            "Lecce",
+            "Andria",
+            "Brindisi",
+            "Barletta",
+            "Altamura",
+            "Molfetta",
+            "Cerignola"
+          ]
+        },
+        {
+          "name": "Tuscany",
+          "code": "52",
+          "cities": [
+            "Florence",
+            "Prato",
+            "Livorno",
+            "Arezzo",
+            "Pisa",
+            "Pistoia",
+            "Lucca",
+            "Grosseto",
+            "Massa",
+            "Carrara"
+          ]
+        },
+        {
+          "name": "Calabria",
+          "code": "78",
+          "cities": [
+            "Reggio Calabria",
+            "Catanzaro",
+            "Cosenza",
+            "Lamezia Terme",
+            "Crotone",
+            "Vibo Valentia",
+            "Corigliano-Rossano",
+            "Rende",
+            "Castrovillari",
+            "Acri"
+          ]
+        },
+        {
+          "name": "Sardinia",
+          "code": "88",
+          "cities": [
+            "Cagliari",
+            "Sassari",
+            "Quartu Sant'Elena",
+            "Alghero",
+            "Olbia",
+            "Nuoro",
+            "Oristano",
+            "Carbonia",
+            "Selargius",
+            "Iglesias"
+          ]
+        },
+        {
+          "name": "Liguria",
+          "code": "42",
+          "cities": [
+            "Genoa",
+            "La Spezia",
+            "Savona",
+            "San Remo",
+            "Rapallo",
+            "Chiavari",
+            "Sestri Levante",
+            "Albenga",
+            "Ventimiglia",
+            "Imperia"
+          ]
+        },
+        {
+          "name": "Marche",
+          "code": "57",
+          "cities": [
+            "Ancona",
+            "Pesaro",
+            "Fano",
+            "Ascoli Piceno",
+            "Macerata",
+            "Fermo",
+            "Senigallia",
+            "Jesi",
+            "Civitanova Marche",
+            "Osimo"
+          ]
+        },
+        {
+          "name": "Abruzzo",
+          "code": "65",
+          "cities": [
+            "L'Aquila",
+            "Pescara",
+            "Chieti",
+            "Teramo",
+            "Avezzano",
+            "Vasto",
+            "Lanciano",
+            "Sulmona",
+            "Ortona",
+            "Francavilla al Mare"
+          ]
+        },
+        {
+          "name": "Friuli-Venezia Giulia",
+          "code": "36",
+          "cities": [
+            "Trieste",
+            "Udine",
+            "Pordenone",
+            "Gorizia",
+            "Monfalcone",
+            "Cordenons",
+            "Codroipo",
+            "San Vito al Tagliamento",
+            "Tolmezzo",
+            "Sacile"
+          ]
+        },
+        {
+          "name": "Trentino-Alto Adige",
+          "code": "32",
+          "cities": [
+            "Trento",
+            "Bolzano",
+            "Merano",
+            "Rovereto",
+            "Bressanone",
+            "Pergine Valsugana",
+            "Riva del Garda",
+            "Brunico",
+            "Laives",
+            "Eppan"
+          ]
+        },
+        {
+          "name": "Umbria",
+          "code": "55",
+          "cities": [
+            "Perugia",
+            "Terni",
+            "Foligno",
+            "Citta di Castello",
+            "Spoleto",
+            "Gubbio",
+            "Assisi",
+            "Orvieto",
+            "Narni",
+            "Bastia Umbra"
+          ]
+        },
+        {
+          "name": "Basilicata",
+          "code": "77",
+          "cities": [
+            "Potenza",
+            "Matera",
+            "Pisticci",
+            "Melfi",
+            "Lavello",
+            "Rionero in Vulture",
+            "Venosa",
+            "Altamura",
+            "Gravina in Puglia",
+            "Ferrandina"
+          ]
+        },
+        {
+          "name": "Molise",
+          "code": "67",
+          "cities": [
+            "Campobasso",
+            "Termoli",
+            "Isernia",
+            "Venafro",
+            "Bojano",
+            "Larino",
+            "Montenero di Bisaccia",
+            "Guglionesi",
+            "San Salvo",
+            "Vasto"
+          ]
+        },
+        {
+          "name": "Valle d'Aosta",
+          "code": "23",
+          "cities": [
+            "Aosta",
+            "Saint-Vincent",
+            "Chatillon",
+            "Sarre",
+            "Pont-Saint-Martin",
+            "Quart",
+            "Gressan",
+            "Saint-Pierre",
+            "Villeneuve",
+            "Verres"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "states": [
+        {
+          "name": "Madrid",
+          "code": "MD",
+          "cities": [
+            "Madrid",
+            "Alcala de Henares",
+            "Fuenlabrada",
+            "Leganes",
+            "Getafe",
+            "Alcorcon",
+            "Torrejon de Ardoz",
+            "Parla",
+            "Alcobendas",
+            "Las Rozas de Madrid"
+          ]
+        },
+        {
+          "name": "Catalonia",
+          "code": "CT",
+          "cities": [
+            "Barcelona",
+            "L'Hospitalet de Llobregat",
+            "Terrassa",
+            "Badalona",
+            "Sabadell",
+            "Lleida",
+            "Tarragona",
+            "Mataro",
+            "Santa Coloma de Gramenet",
+            "Reus"
+          ]
+        },
+        {
+          "name": "Andalusia",
+          "code": "AN",
+          "cities": [
+            "Seville",
+            "Malaga",
+            "Cordoba",
+            "Granada",
+            "Jerez de la Frontera",
+            "Almeria",
+            "Cadiz",
+            "Huelva",
+            "Jaen",
+            "Algeciras"
+          ]
+        },
+        {
+          "name": "Valencia",
+          "code": "VC",
+          "cities": [
+            "Valencia",
+            "Alicante",
+            "Castellon de la Plana",
+            "Elche",
+            "Torrevieja",
+            "Orihuela",
+            "Gandia",
+            "Benidorm",
+            "Alcoy",
+            "Elda"
+          ]
+        },
+        {
+          "name": "Galicia",
+          "code": "GA",
+          "cities": [
+            "Santiago de Compostela",
+            "Vigo",
+            "A Coruna",
+            "Ourense",
+            "Lugo",
+            "Pontevedra",
+            "Ferrol",
+            "Naron",
+            "Vilagarcia de Arousa",
+            "Cangas"
+          ]
+        },
+        {
+          "name": "Castile and Leon",
+          "code": "CL",
+          "cities": [
+            "Valladolid",
+            "Leon",
+            "Burgos",
+            "Salamanca",
+            "Zamora",
+            "Palencia",
+            "Avila",
+            "Segovia",
+            "Soria",
+            "Ponferrada"
+          ]
+        },
+        {
+          "name": "Basque Country",
+          "code": "PV",
+          "cities": [
+            "Bilbao",
+            "Vitoria-Gasteiz",
+            "San Sebastian",
+            "Barakaldo",
+            "Getxo",
+            "Irun",
+            "Portugalete",
+            "Santurtzi",
+            "Basauri",
+            "Errenteria"
+          ]
+        },
+        {
+          "name": "Canary Islands",
+          "code": "CN",
+          "cities": [
+            "Las Palmas de Gran Canaria",
+            "Santa Cruz de Tenerife",
+            "San Cristobal de La Laguna",
+            "Telde",
+            "Arona",
+            "Santa Lucia de Tirajana",
+            "Arrecife",
+            "Puerto del Rosario",
+            "La Orotava",
+            "Los Realejos"
+          ]
+        },
+        {
+          "name": "Castile-La Mancha",
+          "code": "CM",
+          "cities": [
+            "Toledo",
+            "Albacete",
+            "Guadalajara",
+            "Ciudad Real",
+            "Cuenca",
+            "Talavera de la Reina",
+            "Puertollano",
+            "Tomelloso",
+            "Hellin",
+            "Alcazar de San Juan"
+          ]
+        },
+        {
+          "name": "Murcia",
+          "code": "MC",
+          "cities": [
+            "Murcia",
+            "Cartagena",
+            "Lorca",
+            "Molina de Segura",
+            "Alcantarilla",
+            "Cieza",
+            "Yecla",
+            "Totana",
+            "Caravaca de la Cruz",
+            "San Javier"
+          ]
+        },
+        {
+          "name": "Aragon",
+          "code": "AR",
+          "cities": [
+            "Zaragoza",
+            "Huesca",
+            "Teruel",
+            "Calatayud",
+            "Ejea de los Caballeros",
+            "Barbastro",
+            "Alcaniz",
+            "Monzon",
+            "Utebo",
+            "Fraga"
+          ]
+        },
+        {
+          "name": "Extremadura",
+          "code": "EX",
+          "cities": [
+            "Merida",
+            "Badajoz",
+            "Caceres",
+            "Plasencia",
+            "Don Benito",
+            "Almendralejo",
+            "Villanueva de la Serena",
+            "Navalmoral de la Mata",
+            "Zafra",
+            "Montijo"
+          ]
+        },
+        {
+          "name": "Balearic Islands",
+          "code": "IB",
+          "cities": [
+            "Palma",
+            "Ibiza",
+            "Mahon",
+            "Ciutadella de Menorca",
+            "Inca",
+            "Manacor",
+            "Llucmajor",
+            "Alcudia",
+            "Felanitx",
+            "Pollença"
+          ]
+        },
+        {
+          "name": "Asturias",
+          "code": "AS",
+          "cities": [
+            "Oviedo",
+            "Gijon",
+            "Aviles",
+            "Siero",
+            "Langreo",
+            "Mieres",
+            "Castrillon",
+            "San Martin del Rey Aurelio",
+            "Corvera de Asturias",
+            "Villaviciosa"
+          ]
+        },
+        {
+          "name": "Navarre",
+          "code": "NC",
+          "cities": [
+            "Pamplona",
+            "Tudela",
+            "Barañain",
+            "Burlada",
+            "Estella",
+            "Tafalla",
+            "Villava",
+            "Ansoain",
+            "Zizur Mayor",
+            "Egues"
+          ]
+        },
+        {
+          "name": "Cantabria",
+          "code": "CB",
+          "cities": [
+            "Santander",
+            "Torrelavega",
+            "Castro-Urdiales",
+            "Camargo",
+            "Piélagos",
+            "El Astillero",
+            "Santa Cruz de Bezana",
+            "Laredo",
+            "Los Corrales de Buelna",
+            "Reinosa"
+          ]
+        },
+        {
+          "name": "La Rioja",
+          "code": "RI",
+          "cities": [
+            "Logroño",
+            "Calahorra",
+            "Arnedo",
+            "Haro",
+            "Alfaro",
+            "Nájera",
+            "Lardero",
+            "Villamediana de Iregua",
+            "Santo Domingo de la Calzada",
+            "Autol"
+          ]
+        },
+        {
+          "name": "Ceuta",
+          "code": "CE",
+          "cities": [
+            "Ceuta",
+            "Benzu",
+            "El Serrallo",
+            "Hadú",
+            "Monte Hacho",
+            "Playa de la Ribera",
+            "Playa del Chorrillo",
+            "Playa de San Amaro",
+            "Playa de la Calamocarro",
+            "Playa de Desnarigado"
+          ]
+        },
+        {
+          "name": "Melilla",
+          "code": "ML",
+          "cities": [
+            "Melilla",
+            "Barrio del Real",
+            "Barrio de la Victoria",
+            "Barrio del Carmen",
+            "Barrio de la Concepción",
+            "Barrio de la Paz",
+            "Barrio de la Libertad",
+            "Barrio de la Esperanza",
+            "Barrio de la Estación",
+            "Barrio de la Constitución"
+          ]
+        }
+      ]
+    }
+  ]
+}
